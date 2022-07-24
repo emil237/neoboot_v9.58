@@ -14,7 +14,7 @@ REQUIRED='/usr/lib/enigma2/python/Plugins/Extensions/NeoBoot/files'
 TOOLS='/usr/lib/enigma2/python/Tools'
 PREDION='/usr/lib/periodon'
 ##########################################
-URL='https://raw.githubusercontent.com/emilnabil/neoboot_v9.58/main'
+URL='https://raw.githubusercontent.com/emil337/neoboot_v9.58/main'
 ##########################################
 PYTHON_VERSION=$(python -c"import platform; print(platform.python_version())")
 
@@ -87,7 +87,12 @@ fi
 
 #########################
 clear
-
+wget -O /var/volatile/tmp/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk "https://raw.githubusercontent.com/emilnabil/neoboot_v9.58/main/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk"
+wait
+opkg install --force-overwrite /tmp/*.ipk
+wait
+rm -f /var/volatile/tmp/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk
+wait
 
 sleep 5
 opkg update
@@ -96,16 +101,16 @@ opkg install curl
 echo "   UPLOADED BY  >>>>   EMIL_NABIL " 
 sleep 4;
 echo " SUPPORTED BY  >>>> MOHAMMED_ELSAFTY  " 
-sleep 4;                                                                                                                  
+sleep 6;                                                                                                                  
 echo "**********************************************************************************"
 cd /tmp
 set -e 
-wget "https://raw.githubusercontent.com/emilnabil/neoboot_v9.58/main/enigma2-plugin-extensions-neoboot_$VERSION-r3-reboot_all.ipk"
+wget "https://raw.githubusercontent.com/emil237/neoboot_v9.58/main/enigma2-plugin-extensions-neoboot_$NEOBOOT-r3-reboot_all.ipk"
 wait
-opkg install enigma2-plugin-extensions-neoboot_$VERSION-r3-reboot_all.ipk
+opkg install enigma2-plugin-extensions-neoboot_$NEOBOOT-r3-reboot_all.ipk
 cd ..
 set +e
-rm -f /tmp/enigma2-plugin-extensions-neoboot_$VERSION-r02_all-restart-GUI.ipk
+rm -f /tmp/enigma2-plugin-extensions-neoboot_$NEOBOOT-r02_all-restart-GUI.ipk
 
 #########################
 cd $PLUGINPATH
@@ -130,6 +135,8 @@ else
     init 6
 fi
 exit 0
+
+
 
 
 

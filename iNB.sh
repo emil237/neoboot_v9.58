@@ -87,21 +87,19 @@ fi
 
 #########################
 clear
-wget -O /var/volatile/tmp/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk "https://raw.githubusercontent.com/emilnabil/neoboot_v9.58/main/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk"
-wait
-opkg install --force-overwrite /tmp/*.ipk
-wait
-rm -f /var/volatile/tmp/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk
-wait
-
 sleep 5
 opkg update
-opkg install wget
 opkg install curl
 echo "   UPLOADED BY  >>>>   EMIL_NABIL " 
 sleep 4;
-echo " SUPPORTED BY  >>>> MOHAMMED_ELSAFTY  " 
-sleep 6;                                                                                                                  
+echo " SUPPORTED BY  >>>>  MOHAMMED_ELSAFTY  " 
+sleep 6;                                 
+wget -O /tmp/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk "https://raw.githubusercontent.com/emilnabil/neoboot_v9.58/main/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk"
+wait
+opkg install --force-overwrite /tmp/*.ipk
+wait
+rm -f /tmp/*.ipk
+wait                                                                               
 echo "**********************************************************************************"
 cd /tmp
 set -e 
@@ -135,6 +133,7 @@ else
     init 6
 fi
 exit 0
+
 
 
 

@@ -93,12 +93,18 @@ opkg install curl
 echo "   UPLOADED BY  >>>>   EMIL_NABIL " 
 sleep 4;
 echo " SUPPORTED BY  >>>>  MOHAMMED_ELSAFTY  " 
-sleep 6;                                 
-wget -O /tmp/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk "https://raw.githubusercontent.com/emilnabil/neoboot_v9.58/main/enigma2-plugin-extensions-imagedownloader_v2.6_all.ipk"
+sleep 6;
+echo "***********************************************************************"
+cd /tmp
+set -e                                 
+wget
+"https://github.com/emil237/neoboot_v9.58/raw/main/enigma2-plugin-extensions-imagedownloader_v2.6_all.tar.gz"
 wait
-opkg install --force-overwrite /tmp/*.ipk
+tar -xzf enigma2-plugin-extensions-imagedownloader_v2.6_all.tar.gz  -C /
 wait
-rm -f /tmp/*.ipk
+cd ..
+set +e
+rm -f /tmp/*.tar.gz
 wait                                                                               
 echo "**********************************************************************************"
 cd /tmp
@@ -133,6 +139,8 @@ else
     init 6
 fi
 exit 0
+
+
 
 
 

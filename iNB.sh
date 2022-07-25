@@ -97,7 +97,7 @@ sleep 6;
 echo "***********************************************************************"
 cd /tmp
 set -e                                 
-wget
+wget --no-check-certificate
 "https://raw.githubusercontent.com/emil337/neoboot_v9.58/main/enigma2-plugin-extensions-imagedownloader_v2.6_all.tar.gz"
 wait
 tar -xzf enigma2-plugin-extensions-imagedownloader_v2.6_all.tar.gz  -C /
@@ -139,6 +139,7 @@ else
     init 6
 fi
 exit 0
+
 
 
 

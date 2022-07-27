@@ -1,0 +1,3399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fix\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Avrumba <6723dsqw@inbox.ru>\n"
+"Language-Team: gutosie- GaduGadu nr. 5111900 <http://all-forum.cba.pl >\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"X-Generator: Poedit 1.6.5\n"
+
+msgid "\t%sBlock Count: %s"
+msgstr "\t%s Количество блоков: %s"
+
+msgid "\t%sBlock Size: %s"
+msgstr "\t%s Размер блока: %s"
+
+msgid "\t%sData Block Count: %s"
+msgstr "\t%sДанные о количестве блоков: %s"
+
+msgid "\t%sErase Count Header"
+msgstr "\t%s Удалить заголовок счетчика"
+
+msgid "\t%sFile Offset: %s"
+msgstr "\t%s Смещение файла: %s"
+
+msgid "\t%sFirst UBI PEB Number: %s"
+msgstr "\t%s Первый номер UBI PEB: %s"
+
+msgid "\t%sImage Sequence Num: %s"
+msgstr "\t%s Номер последовательности имиджей: %s"
+
+msgid "\t%sInternal Volume Block Count: %s"
+msgstr "\t%s Внутреннее количество блоков объема: %s"
+
+msgid "\t%sInternal Volume: %s"
+msgstr "\t%s Внутренний объем: %s"
+
+msgid "\t%sIs Valid: %s"
+msgstr "\t%s Правильно: %s"
+
+msgid "\t%sIs Volume Table: %s"
+msgstr "\t%sIs Таблица громкости: %s"
+
+msgid "\t%sLEB Size: %s"
+msgstr "\t%s Размер LEB: %s"
+
+msgid "\t%sLayout Block Count: %s"
+msgstr "\t%s Планировка количества блоков: %s"
+
+msgid "\t%sMin I/O: %s"
+msgstr "\t%s Min. I/O: %s"
+
+msgid "\t%sName: %s"
+msgstr "\t%s Имя: %s"
+
+msgid "\t%sPEB Range: %s - %s"
+msgstr "\t%s Диапазон PEB: %s - %s"
+
+msgid "\t%sPEB Size: %s"
+msgstr "\t%s Размер PEB: %s"
+
+msgid "\t%sTotal Block Count: %s"
+msgstr "\t%sОбщее количество блоков: %s"
+
+msgid "\t%sUnknown Block Count: %s"
+msgstr "\t%s Неизвестное количество блоков: %s"
+
+msgid "\t%sVID Header Header"
+msgstr "\t%s Заголовок заголовка VID"
+
+msgid "\t%sVolume Name:%s"
+msgstr "\t%s Название тома:%s"
+
+msgid "\t%sVolume Record"
+msgstr "\t%s Объем загрузки"
+
+msgid ""
+"\n"
+"\n"
+"\n"
+"Error - w lokalizacji %sImagesUpload/.kernel/  \n"
+"nie odnaleziono pliku kernela flash-kernel-%s.bin"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"Ошибка - по пути %sImagesUpload/.kernel/  \n"
+"не найден файл ядра-%s.bin"
+
+msgid ""
+"\n"
+"\n"
+"NeoBoot odinstalowany, mozesz zrobic reinstalacje."
+msgstr ""
+"\n"
+"\n"
+"NeoBoot удален, вы можете переустановить."
+
+msgid ""
+"\n"
+"\n"
+"NeoBoot remove complete...."
+msgstr ""
+"\n"
+"\n"
+"NeoBoot полное удаление..."
+
+msgid ""
+"\n"
+"\n"
+"NeoBoot restoring media mounts...."
+msgstr ""
+"\n"
+"\n"
+"NeoBoot восстановление монтирования...."
+
+msgid ""
+"\n"
+"\n"
+"Odinstalowywanie neoboota..."
+msgstr ""
+"\n"
+"\n"
+"Удаление neoboot..."
+
+msgid ""
+"\n"
+"\n"
+"Przywracanie montowania."
+msgstr ""
+"\n"
+"\n"
+"Восстановить монтирование."
+
+msgid ""
+"\n"
+"\n"
+"Restore settings....."
+msgstr ""
+"\n"
+"\n"
+"Восстановить настройки..."
+
+msgid ""
+"\n"
+" ... q(-_-)p ...\n"
+"NeoBot to function properly need additional packages.\n"
+"Select Yes and wait ...\n"
+"Proces installation may take a few moments ...\n"
+"Install ?"
+msgstr ""
+"\n"
+" ... q(-_-)p ...\n"
+"Требуются дополнительные пакеты для правильной работы NeoBoot . \n"
+"Выберите Да и подождите .... \n"
+"Процесс установки может занять некоторое время... \n"
+"Установить ?"
+
+msgid ""
+"\n"
+"Completed assembly of disks.\n"
+"To save the setting, switch the STB in deep standby !!!\n"
+"Restart ?"
+msgstr ""
+"\n"
+"Монтирование завершено.\n"
+"Чтобы сохранить настройки, сделайте полную перезагрузку ресивера !!! \n"
+"Перезагрузить ?"
+
+msgid ""
+"\n"
+"Completely uninstall NeoBota: \n"
+"If you think NeoBot not you need it, you can uninstall it.\n"
+"To uninstall now press the red button on the remote control.\n"
+"\n"
+msgstr ""
+"\n"
+"Полная деинсталляция NeoBoot: \n"
+"Если вы считаете, что вам не нужен NeoBoot, вы можете удалить его.\n"
+"Чтобы удалить, нажмите красную кнопку на пульте Д/У.\n"
+"\n"
+
+msgid ""
+"\n"
+"Delete ?"
+msgstr ""
+"\n"
+"Удалить ?"
+
+msgid ""
+"\n"
+"NeoBoot removal of the boot manager...."
+msgstr ""
+"\n"
+"NeoBoot удаление менеджера загрузки..."
+
+msgid ""
+"\n"
+"NeoBoot restoring media mounts...."
+msgstr ""
+"\n"
+"NeoBoot восстанавливает монтирование носителя..."
+
+msgid ""
+"\n"
+"[NeoBoot] The installation image is ready.\n"
+"Return to test the installed image.\n"
+"Press EXIT!"
+msgstr ""
+"\n"
+"[NeoBoot]Установка имиджа готова. Вернуться к тестированию установленного "
+"имиджа.\n"
+"Нажмите ВЫХОД!"
+
+msgid ""
+"\n"
+"[NeoBoot] Zip file unzipped.\n"
+"Installation in progress, please wait ..."
+msgstr ""
+"\n"
+"[NeoBoot] Zip файл распакован.\n"
+"Идет установка, пожалуйста, подождите..."
+
+msgid ""
+"   \n"
+"   Available: "
+msgstr ""
+"   \n"
+"   Доступно памяти: "
+
+msgid "         NeoBoot  %s  - Menu"
+msgstr "         NeoBoot  %s  - Меню"
+
+msgid "    NeoBot - Available media:"
+msgstr "    NeoBoot - Доступные носители:"
+
+msgid ""
+"  Enigma2\n"
+"\n"
+"During the entire installation process does not restart the receiver !!!\n"
+"\n"
+msgstr ""
+"  Enigma2\n"
+"\n"
+"Не перезагружайте ресивер в течение всего процесса установки !!!\n"
+"\n"
+
+msgid ""
+" -  the option copies oscam configi and cccam, openpli default.\n"
+"\n"
+msgstr ""
+" - функция скопирует файлы oscam и cccam (openpli по умолчанию).\n"
+"\n"
+
+msgid ""
+" - Option to copy channel list from flash to image installed in neoboot.\n"
+"\n"
+msgstr ""
+" - функция скопирует список каналов c флеш-памяти в имидж neoboot.\n"
+"\n"
+
+msgid ""
+" - Option to copy drivers to the image installed in neoboot from the "
+"flashlight, recommended only if you are installing an image from a different "
+"model than you have.\n"
+"\n"
+msgstr ""
+" - функция перемещает драйверы c флеш-памяти в создаваемый имидж в neoboot, "
+"рекомендуется только в том случае, если вы устанавливаете имидж  другого "
+"производителя, чем у Вас.\n"
+"\n"
+
+msgid ""
+" - Select the software to be installed with the cursor (left or right).\n"
+"\n"
+msgstr ""
+" - Выберите программное обеспечение для установки курсором (влево или "
+"вправо).\n"
+"\n"
+
+msgid ""
+" - opcja kopiuje configi oscama i cccam (openpli -domyslnie)\n"
+"\n"
+msgstr ""
+" - функция скопирует файлы oscam и cccam (openpli по умолчанию)\n"
+"\n"
+
+msgid ""
+" - opcja kopiuje liste kanalow z flasha do instalowanego image w neoboocie.\n"
+"\n"
+msgstr ""
+" - функция скопирует список каналов c флеш-памяти в имидж neoboot.\n"
+"\n"
+
+msgid ""
+" - opcja kopiuje ustawienia oprogramowania z flasza do instalowanego systemu "
+"w neoboocie.\n"
+"\n"
+msgstr ""
+" - функция скопирует настройки программного обеспечения с флеш в имидж, "
+"устанавливаемый в neoboot. \n"
+"\n"
+
+msgid ""
+" - opcja przenosi do instalowanego image w neoboot ustawienia montowania "
+"podlaczonych urzadzen do tunera.\n"
+"\n"
+msgstr ""
+" - функция передает создаваемому имиджу настройки монтированых устройств в "
+"ресивере.\n"
+"\n"
+
+msgid ""
+" - opcja przenosi pliki z zawartymi ustawieniami dla sieci lan i wlan.\n"
+"\n"
+msgstr ""
+" - функция перемещает файлы с настройками для LAN и WLAN.\n"
+"\n"
+
+msgid ""
+" - opcja przenosi z flasza sterowniki do instalowanego image w neoboocie, "
+"zalecane tylko w przypadku jesli instalujemy image od innego model niz "
+"posiadamy.\n"
+"\n"
+msgstr ""
+" - функция перемещает драйверы с flach в создаваемый имидж в neoboot, "
+"рекомендуется только в том случае, если вы устанавливаете имидж  другого "
+"производителя, чем у Вас.\n"
+"\n"
+
+msgid ""
+" - opcja przeznaczona dla image blackhole, pomaga uruchomic BH w neoboot \n"
+"\n"
+msgstr ""
+" - функция для имиджа BH, помогает запускать BlackHole в neoboot \n"
+"\n"
+
+msgid ""
+" - opcja w niektorych przypadkach naprawia w instalowanym image polaczenie "
+"FTP (ang. File Transfer Protocol) \n"
+"\n"
+msgstr ""
+" - функция в некоторых случаях восстанавливает соединение FTP в создаваемом "
+"имидже \n"
+"\n"
+
+msgid ""
+" - option for image blackhole, helps to run BH in neoboot\n"
+"\n"
+msgstr ""
+" - функция для имиджа BH, помогает запускать BlackHole в neoboot\n"
+"\n"
+
+msgid ""
+" - po instalacji, opcja kasuje plik zip image z katalogu ImagesUpload.\n"
+"\n"
+msgstr ""
+" - после установки, функция удаляет файл .zip имиджа с папки ImagesUpload.\n"
+"\n"
+
+msgid ""
+" - po instalacji, opcja kasuje plik zip image z katalogu ImagesUpload. \n"
+"\n"
+msgstr ""
+" - после установки функция удаляет файл zip-имиджа с каталога "
+"ImagesUpload. \n"
+"\n"
+
+msgid ""
+" - po zaznaczeniu tej opcji nie zostanie nic skopiowane z image flash do "
+"instalowanego image w neoboot.\n"
+"\n"
+msgstr ""
+" - после выбора <нет> этой функции ничего не будет скопировано с имиджа-флеш "
+"в создаваемый имидж в neoboot.\n"
+"\n"
+
+msgid ""
+" - po zaznaczeniu tej opcji zostanie skopiowany plik jadra (kernel) "
+"instalowanego image do neoboota, zalecane tylko dla STB vuplus \n"
+"\n"
+msgstr ""
+" - после выбора этой функции, ядро(kernel) имиджа(Flash) будет скопировано в "
+"neoboot, рекомендуется только для STB VU+ \n"
+"\n"
+
+msgid ""
+" - the option copies the software settings from the flashlight to the system "
+"being installed in the neobot.\n"
+"\n"
+msgstr ""
+" - функция скопирует настройки имиджа с флеш в имидж, устанавливаемый в "
+"neoboot.\n"
+"\n"
+
+msgid ""
+" - the option in some cases repairs the File Transfer Protocol connection in "
+"the installed image.\n"
+"\n"
+msgstr ""
+" - функция в некоторых случаях восстанавливает соединение FTP в создаваемом "
+"имидже.\n"
+"\n"
+
+msgid ""
+" - the option moves files with the settings for lan and wlan.\n"
+"\n"
+msgstr ""
+" - функция перемещает файлы с настройками для LAN и WLAN.\n"
+"\n"
+
+msgid ""
+" - the option transfers mounts to the image installed in neoboot from the "
+"flashlight, recommended only if you are installing an image from a different "
+"model than you have.\n"
+"\n"
+msgstr ""
+" - функция передает создаваемому имиджу настройки монтированых устройств в "
+"ресивере, рекомендуется только в том случае, если вы устанавливаете имидж "
+"другой модели, чем у вас есть.\n"
+"\n"
+
+msgid ""
+" - this checking this option on it nothing will be copied from the image "
+"flash to the installed image in neoboot.\n"
+"\n"
+msgstr ""
+" - после выбора <нет> этой функции ничего не будет скопировано с имиджа-флеш "
+"в создаваемый имидж в neoboot.\n"
+"\n"
+
+msgid ""
+" - to change, press blue on the remote control.\n"
+"\n"
+msgstr ""
+" -Изменить имя имиджа - чтобы изменить, нажмите синюю клавишу на пульте Д/"
+"У.\n"
+"\n"
+
+msgid ""
+" -Wybierz kursorem pilota oprogramowanie do zainstalowania (w lewo lub "
+"prawo).\n"
+"\n"
+msgstr ""
+" - Выберите программное обеспечение для установки курсором (влево или "
+"вправо).\n"
+
+msgid ""
+" -Zmien nazwe image - aby zmienic nacisnij na pilocie niebieski.\n"
+"\n"
+msgstr ""
+" -Изменить имя имиджа - чтобы изменить, нажмите синюю клавишу на пульте Д/"
+"У.\n"
+"\n"
+
+msgid " /proc/filesystems"
+msgstr " /proc/filesystems"
+
+msgid " Failed to get model:"
+msgstr " Модель не определенна:"
+
+msgid " Failed to open /proc/mounts"
+msgstr " Не возможно открыть /proc/mounts"
+
+msgid " Failed to read /proc/filesystems:"
+msgstr " Ошибка чтения /proc/filesystems:"
+
+msgid " Failed to set %s speed to %s"
+msgstr " Не удалось установить %s скорость в %s"
+
+msgid " MB"
+msgstr " Mб"
+
+msgid " No mountpoints found?"
+msgstr " Точки монтирования не найдены?"
+
+msgid " enumerating block devices..."
+msgstr " перечисление блоков устройств..."
+
+msgid " enumerating network mounts..."
+msgstr " расчет монтажа сети..."
+
+msgid ""
+" is already installed.\n"
+" Please try another name."
+msgstr ""
+" Уже есть.\n"
+" Пожалуйста, присвойте другое имя."
+
+msgid " mounting:"
+msgstr " примонтировать:"
+
+msgid " teraz ?"
+msgstr " сейчас ?"
+
+msgid "%03d MB"
+msgstr "%03d MБ"
+
+msgid "%d.%03d GB"
+msgstr "%d.%03d ГБ"
+
+msgid "%sUBI File"
+msgstr "%s Файл UBI"
+
+msgid ""
+"- after selecting this option, the kernel of the installed image will be "
+"copied to neoboot, only recommended for STB vuplus\n"
+"\n"
+msgstr ""
+"- после выбора этой функции, ядро(kernel) имиджа(Flash) будет скопировано в "
+"neoboot, рекомендуется только для STB VU+.\n"
+"\n"
+
+msgid ""
+"...............NeoBoot  REBOOT...............\n"
+"Please wait, in a moment the decoder will be restarted..."
+msgstr ""
+"...............NeoBoot  ПЕРЕЗАГРУЗКА...............\n"
+"Подождите пожалуйста, Через несколько мгновений ресивер перезагрузится!!!"
+
+msgid ""
+"...............NEOBOOT >> Reboot...............\n"
+"Please wait, in a moment the decoder will be restarted..."
+msgstr ""
+"...............NEOBOOT >> Перезагрузка...............\n"
+"Подождите пожалуйста, Через несколько мгновений ресивер перезагрузится!!!"
+
+msgid ""
+"...............NEOBOOT-REBOOT...............\n"
+"Please wait, in a moment the decoder will be restarted..."
+msgstr ""
+"...............NEOBOOT-ПЕРЕЗАГРУЗКА...............\n"
+"Подождите пожалуйста, Через несколько мгновений ресивер перезагрузится..."
+
+msgid ""
+"...............NEOBOOT > REBOOT...............\n"
+"Please wait, in a moment the decoder will be restarted..."
+msgstr ""
+"...............NEOBOOT > ПЕРЕЗАГРУЗКА...............\n"
+"Подождите пожалуйста, Через несколько мгновений ресивер перезагрузится..."
+
+msgid ""
+"...............NEOBOOT_REBOOT...............\n"
+"Please wait, in a moment the decoder will be restarted..."
+msgstr ""
+"...............NEOBOOT_REBOOT...............\n"
+"Подождите пожалуйста, Через несколько мгновений ресивер перезагрузится..."
+
+msgid ""
+"...............REBOOT now...............\n"
+"Please wait, in a moment the decoder will be restarted..."
+msgstr ""
+"...............ПЕРЕЗАГРУЗКА сейчас...............\n"
+"Подождите пожалуйста, Через несколько мгновений ресивер перезагрузится..."
+
+msgid "/dev"
+msgstr "/устройство"
+
+msgid "/dev/nomount.%s"
+msgstr "/устройство/не примонтировано.%s"
+
+msgid "/model"
+msgstr "/модель"
+
+msgid "/part"
+msgstr "/часть"
+
+msgid "/proc/mounts"
+msgstr "/proc/монтирование"
+
+msgid "/proc/version"
+msgstr "/proc/версия"
+
+msgid "/sys/block/"
+msgstr "/sys/bloсk/"
+
+msgid "/vendor"
+msgstr "/используемый"
+
+msgid ""
+"1. If you do not have a media formatted with the ext3 or ext4 is open to the "
+"Device Manager <Initialize>, select the drive and format it.\n"
+"\n"
+msgstr ""
+"1. Если у вас нет носителя, в формате ext3 или ext4, откройте диспетчер "
+"устройств <Инициализация>, выберите диск и отформатируйте его.\n"
+"\n"
+
+msgid ""
+"1. Requirements: For proper operation of the device NeoBota are required USB "
+"stick or HDD.\n"
+"\n"
+msgstr ""
+"1. Требования: для правильной работы плагина NeoBoot требуется устройство "
+"USB или HDD..\n"
+"\n"
+
+msgid ""
+"2. Go to the device manager and install correctly hdd and usb ...\n"
+"\n"
+msgstr ""
+"2. Зайдите в диспетчер устройств и правильно установите hdd или usb ...\n"
+"\n"
+
+msgid ""
+"2. NeoBot is fully automated\n"
+"\n"
+msgstr ""
+"2. NeoBoot полностью автоматизирован\n"
+"\n"
+
+msgid ""
+"3. Install NeoBota on the selected device.\n"
+"\n"
+msgstr ""
+"3. Установите NeoBoot на выбранное устройство.\n"
+"\n"
+
+msgid ""
+"3. To install a new image in MultiBocie should be sent by FTP software file "
+"compressed in ZIP or NIF to the folder: \n"
+"%sImagesUpload and remote control plugin NeoBoot use the green button "
+"<Installation>\n"
+"\n"
+msgstr ""
+"3. Для установки новых имиджей в NeoBoot вам необходимо отправить файл "
+"программного обеспечения, сжатый в ZIP или NFI через FTP: \n"
+"/media/hdd/ImagesUpload и с пульта в NeoBoot выберите зеленую кнопку "
+"<Установка>\n"
+"\n"
+
+msgid ""
+"3. To install a new image in MultiBocie should be sent by FTP software file "
+"compressed in ZIP or NIF to the folder: \n"
+"/media/neoboot/ImagesUpload and remote control plugin NeoBoot use the green "
+"button <Installation>\n"
+"\n"
+msgstr ""
+"3. Для установки новых имиджей в NeoBoot вам необходимо отправить файл "
+"программного обеспечения, сжатый в ZIP или NFI через FTP: \n"
+"/media/hdd/ImagesUpload и с пульта в NeoBoot выберите зеленую кнопку "
+"<Установка>\n"
+"\n"
+
+msgid ""
+"3. To install the new software in multiboot, you must send the software file "
+"compressed in zip format via ftp to the ImagesUpload directory, or download "
+"from the network.\n"
+"\n"
+msgstr ""
+"3. Для установки новых имиджей в NeoBoot вам необходимо отправить файл "
+"программного обеспечения, сжатый в ZIP или NFI через FTP: /media/hdd/"
+"ImagesUpload и с пульта в NeoBoot выберите зеленую кнопку <Установка>\n"
+"\n"
+
+msgid ""
+"4. For proper installation and operation of additional image multiboot, use "
+"only the image intended for your receiver. !!!\n"
+"\n"
+msgstr ""
+"4. Для правильной установки и работы с дополнительным имиджем в NeoBoot "
+"используйте только имиджи, предназначенные для вашего ресивера.. !!!\n"
+"\n"
+
+msgid ""
+"4. Install the needed packages...\n"
+"\n"
+msgstr ""
+"4. Установите необходимые пакеты...\n"
+"\n"
+
+msgid ""
+"5. By installing the multiboot images of a different type than for your "
+"model STB DOING THIS AT YOUR OWN RISK !!!\n"
+"\n"
+msgstr ""
+"5. Установив в NeoBoot имиджы другого типа, не совместимые с вашим "
+"ресивером, ВЫ ДЕЛАЕТЕ ЭТО НА СВОЙ СТРАХ И РИСК!!!\n"
+"\n"
+
+msgid ""
+"5. For proper installation NenoBota receiver must be connected to the "
+"Internet.\n"
+"\n"
+msgstr ""
+"5. Приемник должен быть подключен к Интернету для правильной сборки "
+"NeoBoot.\n"
+"\n"
+
+msgid ""
+"6. In the event of a problem with the installation cancel and  inform the "
+"author of the plug of a problem.\n"
+"\n"
+msgstr ""
+"6. В случае проблем с установкой, отмените и сообщите автору плагина о "
+"проблеме.\n"
+"\n"
+
+msgid ""
+"6. The installed to multiboot images, it is not indicated update to a newer "
+"version.\n"
+"\n"
+msgstr ""
+"6. В имиджах, установленных в NeoBoot, обновлять до новой версии не "
+"рекомендуется.\n"
+"\n"
+
+msgid "After selecting OK start Mounting Manager, option Mount - green\n"
+msgstr ""
+"После выбора OK, запустите Менеджер монтирования, опция Mount - зеленая\n"
+
+msgid ""
+"After successful launch of the selected software\n"
+"you must run the neoboot plugin\n"
+"if the software does not start or neoboot is not confirmed\n"
+"the system will return to the internal flash memory\n"
+"\n"
+"Press OK or exit on the remote control to continue..."
+msgstr ""
+"После успешного запуска имиджа\n"
+"Вам нужно перезапустить плагин NeoBoot\n"
+"Если имидж не запускается или NeoBoot не подтвержден\n"
+"Система вернется на внутреннюю флеш-память\n"
+"\n"
+"Нажмите OK или EXIT на пульте Д/У для продолжения..."
+
+msgid "Aktualizacja IPTVPlayer na zainstalowanych image."
+msgstr "Обновить IPTVPlayer на всех имиджах."
+
+msgid "Aktualizacja listy TV na zainstalowanych image."
+msgstr "Обновить Букеты-ТВ на всех имиджах."
+
+msgid "Aktualizowac neoboota na wszystkich obrazach ?"
+msgstr "Обновить neoboot на всех имиджах ?"
+
+msgid "All installed OK"
+msgstr "Все установлено <ОК>"
+
+msgid ""
+"An error was encountered, you have neoboot installed on usb and hdd.\n"
+"Uninstall one directories from one drive."
+msgstr ""
+"Возникла ошибка, у вас на usb и hdd установлен NeoBoot.\n"
+"Удалите одну директорию с любого устройства."
+
+msgid "Are you sure you want to clear?"
+msgstr "Вы уверены, что хотите удалить?"
+
+msgid ""
+"Are you sure you want to completely remove NeoBoota of your image?\n"
+"\n"
+"If you choose so all directories NeoBoota will be removed.\n"
+"A restore the original image settings Flash."
+msgstr ""
+"Вы уверены, что хотите полностью удалить NeoBoot с вашего ресивера ?\n"
+"\n"
+"Если вы выберете да, все каталоги NeoBoot будут удалены.\n"
+"И восстановлены исходные настройки имиджа на Флеш."
+
+msgid ""
+"Are you sure you want to delete the image from the ImagesUpload directory\n"
+"If you choose the red button on the remote control then you will delete all "
+"zip images from the ImagesUpload directory"
+msgstr ""
+"Вы уверены, что хотите удалить имидж с каталога ImagesUpload\n"
+"Нажмите красную кнопку на пульте ДУ, после чего будут удаленны все .zip "
+"файлы с каталога ImagesUpload."
+
+msgid ""
+"Are you sure you want to delete the image from the ImagesUpload directory?\n"
+"\n"
+"If you choose the red button on the remote control then you will delete all "
+"ZIP images from the ImagesUpload directory"
+msgstr ""
+"Вы уверены, что хотите удалить файлы с каталога ImagesUpload?\n"
+"\n"
+"Если вы выберете красную кнопку на пульте Д/У, вы удалите все файлы .ZIP с "
+"каталога ImagesUpload."
+
+msgid ""
+"Autor EGAMIBoota zezwolil na rozwijanie i edycje NeoBoot - Thanks/Thanks\n"
+"\n"
+msgstr ""
+"Автор EGAMIBoot дал согласие на разработку и редактирование NeoBoot - "
+"Спасибо\n"
+"\n"
+
+msgid "Backup"
+msgstr "Начать"
+
+msgid "Backup Confirmation"
+msgstr "Копия настроек"
+
+msgid "Backup Image"
+msgstr "Резервная копия Имиджа"
+
+msgid "Backup NeoBoot"
+msgstr "Копия плагина NeoBoot"
+
+msgid "Backup copies are in the directory /"
+msgstr "Резервные копии находятся в каталоге /"
+
+msgid "Backup image"
+msgstr "Копия Имиджа"
+
+msgid ""
+"Before restoring, make sure you have free space on your device - 300Mb \n"
+"Do you want to restore this image:\n"
+" "
+msgstr ""
+"Перед восстановлением убедитесь, что в вашем устройстве достаточно "
+"свободного места - 300 МБ \n"
+"Вы хотите восстановить этот образ:\n"
+" "
+
+msgid "Before upgrading it is recommended that you make a backup NeoBoot.\n"
+msgstr "Рекомендуется создать резервную копию перед обновлением NeoBoot.\n"
+
+msgid "Block or unblock the neoboot skin display in the system skin."
+msgstr "Блокируйте/Разблокируйте скин плагина в скинах имиджа."
+
+msgid "Block or unlock skins."
+msgstr "Блок/Разблок скин"
+
+msgid "Boot Image"
+msgstr "Загрузить имидж"
+
+msgid "Boot new Image directly ?"
+msgstr "Установить установленный имидж ?"
+
+msgid ""
+"Brak miejca do zrobienia kopii obrazu. Potrzebne jest 150 Mb wolnego miejsca "
+"na kopie obrazu."
+msgstr ""
+"Там нет места, чтобы сделать копию изображения.Вам нужно 150 Мб свободного "
+"места для копирования имиджа."
+
+msgid ""
+"Can't unmount partition,  make sure it is not being used for swap or record/"
+"timeshift paths"
+msgstr ""
+"Не удалось размонтировать раздел,  убедитесь, что он не используется для "
+"путей подкачки или записи / временного сдвига"
+
+msgid ""
+"Can't unmount partition, make sure it is not being used for swap or record/"
+"timeshift paths"
+msgstr ""
+"Не удалось размонтировать раздел, убедитесь, что он не используется для "
+"обмена или записи/ пути временного сдвига"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cancel execution?"
+msgstr "Отменить исполнение ?"
+
+msgid ""
+"Canceled ... NeoBoot will not work properly !!! NeoBoot works only on VuPlus "
+"box !!!"
+msgstr ""
+"Отменено ... NeoBoot не будет работать должным образом!!! NeoBoot работает "
+"только у VuPlus box !!!"
+
+msgid ""
+"Canceled ... NeoBoot will not work properly !!! NeoBoot works only on VuPlus "
+"box, Ultimo4k, Solo4k, Uno4k !!!"
+msgstr ""
+"Отмененно... NeoBoot не будет работать должным образом!!! NeoBoot работает "
+"только на VU+ !!!"
+
+msgid "Canceled start off the image ..."
+msgstr "Установка имиджа отменена..."
+
+msgid "Canceled update."
+msgstr "Отмена обновления."
+
+msgid "Cancelled"
+msgstr "Отменено"
+
+msgid ""
+"Cancelled ... Image BlackHole without the module will not work properly !!!"
+msgstr ""
+"Отменено ... Имидж BlackHole без модуля не будет работать должным образом !!!"
+
+msgid ""
+"Cancelled ... [meoboot] detected no file vmlinuz.gz. You can not run image "
+"BlackHole \\ nImage BlackHole without the module will not be work "
+"properly !!!"
+msgstr ""
+"Отменено ... [NeoBoot] не удалось обнаружить файл vmlinux.gz. Имидж "
+"BlackHole не может быть запущено \n"
+"Имидж BlackHole без модуля не будет работать должным образом!!!"
+
+msgid "Cancelled ... neoboot without the module will not work properly !!!"
+msgstr "Отменено ... Neoboot без модуля не будет работать должным образом !!!"
+
+msgid "Change"
+msgstr "Начать"
+
+msgid "Check the correctness of neoboot installation"
+msgstr "Проверить правильность установки NeoBoot"
+
+msgid "Checking filesystem..."
+msgstr "Проверка зависимостей для NeoBoot..."
+
+msgid "Choose copy you want to restore or delete."
+msgstr "Выберите копию, которую нужно восстановить или удалить."
+
+msgid "Choose option to extract image"
+msgstr "Выберите опцию для извлечения имиджа"
+
+msgid "Choose the image you want to make a copy of"
+msgstr "Выберите имидж, с которого нужно сделать копию"
+
+msgid "Choose the skin you want to make."
+msgstr "Выберите скин для замены."
+
+msgid "Choose what you want to do !"
+msgstr "Выберите то, что вы хотите сделать !"
+
+msgid "Choose where to mount your devices to:"
+msgstr "Выберите, как смонтировать ваше устройство:"
+
+msgid ""
+"Completed assembly of disks.\n"
+" Return to installation ?"
+msgstr ""
+"Завершена сборка дисков.\n"
+"Вернуться к установке?"
+
+msgid ""
+"Completed assembly of disks.\n"
+"Return to installation ?"
+msgstr ""
+"Диск смонтирован!\n"
+"Вернуться к установке ?"
+
+msgid ""
+"Completed update NeoBoot. You need to restart the E2 !!!\n"
+"Restart now ?"
+msgstr ""
+"Обновление NeoBoot завершено. \n"
+"Вы должны перезагрузить E2!!! \n"
+"Перезагрузить сейчас ?"
+
+msgid "Confirmation of Deletion"
+msgstr "Подтвердить удаление"
+
+msgid "Confirmation of Deletion..."
+msgstr "Подтвердить удаление..."
+
+msgid "Confirmation..."
+msgstr "Подтверждение..."
+
+msgid "Continues mounting equipment..."
+msgstr "Идет монтирование устройст..."
+
+msgid "Converting ext3 to ext4..."
+msgstr "Конвертировать ext3 в ext4..."
+
+msgid "Copy CamdMenager ?"
+msgstr "Скопировать CamdMenager ?"
+
+msgid "Copy MediaPortal ?"
+msgstr "Скопировать MediaPortal ?"
+
+msgid "Copy Settings to the new Image"
+msgstr "Скопировать настройки в имидж ? (НЕ рекомендуется)"
+
+msgid "Copy config SoftCam ?"
+msgstr "Скопировать настройки SoftCam ?"
+
+msgid "Copy files from Flash to the installed image ?"
+msgstr "Скопировать файлы с Flash в создаваемый имидж ?"
+
+msgid "Copy mounting disks ? (Recommended)"
+msgstr "Скопировать монтирование USB/HDD ? (Рекомендуется)"
+
+msgid "Copy network settings LAN-WLAN ?"
+msgstr "Скопировать настройки сети LAN-WLAN ?"
+
+msgid "Copy the IPTV Player plugin from flash to all images"
+msgstr "Установить IPTVPlayer с флеш на все имиджи ?"
+
+msgid "Copy the boxbranding  ?"
+msgstr "Скопировать файл boxbranding ?"
+
+msgid "Copy the channel list ?"
+msgstr "Скопировать список каналов ?"
+
+msgid "Copy the drivers ? (Recommended only other image.)"
+msgstr "Скопировать драйвера ? (Для имиджей другого типа.)"
+
+msgid "Copy the extensions plugins  ?"
+msgstr "Скопировать плагины ?"
+
+msgid "Copy the kernel of the installed system (recommended) ?"
+msgstr "Скопировать ядро для имиджа (только VU+) ?"
+
+msgid "Copy the kernel of the installed system (recommended ?"
+msgstr "Скопировать ядро для имиджа (только VU+) ?"
+
+msgid "Copy the network settings DNS ? (Not recommended for VTi)"
+msgstr "Скопировать сетевые настройки DNS ?(Не рекомендованно для VTi)"
+
+msgid "Copy the system plugins ?"
+msgstr "Скопировать плагины системы ?"
+
+msgid "Copy the system settings ? (Not recommended)"
+msgstr "Скопировать настройки системы ? (Не рекомендуется)"
+
+msgid "Copy the tv list with flash on all image"
+msgstr "Скопировать сервисы-ТВ с флеш на все имиджи"
+
+msgid "Creating filesystem"
+msgstr "Создание файловой системы"
+
+msgid "Creating journal"
+msgstr "Создание журнала"
+
+msgid "Creating partition"
+msgstr "Создание раздела"
+
+msgid "Czekaj usuwam..."
+msgstr "Ждите, удаляется..."
+
+msgid "Czekaj usuwam....."
+msgstr "Идет удаление....."
+
+msgid "Czy odinstalowac NeoBoota ?"
+msgstr "Удалить NeoBoot ?"
+
+msgid "Czy skasowac haslo ?"
+msgstr "Удалить пароль ?"
+
+msgid "Czyszenie z pobranych obrazow"
+msgstr "Очистка установленых имиджей"
+
+msgid "Deep standby"
+msgstr "Глубокий режим ожидания"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete Confirmation"
+msgstr "Подтверждение удаления"
+
+msgid "Delete Image zip after Install ?"
+msgstr "Удалить файл .zip после установки ?"
+
+msgid "Delete file"
+msgstr "Удалить"
+
+msgid "Delete image ZIP from the ImagesUpload directory"
+msgstr "Удалить ZIP-файл с каталога ImagesUpload"
+
+msgid "Delete password"
+msgstr "Удалить пароль"
+
+msgid "Delete the image ZIP from the ImagesUpload directory  "
+msgstr "Удалить .zip файл с папки ImagesUpload  "
+
+msgid "Delete the selected image  :"
+msgstr "Удалить выбранный имидж  :"
+
+msgid "Delete the selected image - "
+msgstr "Удалить выбранный имидж - "
+
+msgid "Deleting downloaded image zip files ...."
+msgstr "Удаление загруженных zip-файлов ...."
+
+msgid "Deleting in progress...\n"
+msgstr "Удаление ждите...\n"
+
+msgid "Deleting languages"
+msgstr "Удалить неиспользуемый язык"
+
+msgid "Device %s is not mounted"
+msgstr "Устройсво %s не смонтировано"
+
+msgid "Device Manager"
+msgstr "Менеджер устройств"
+
+msgid ""
+"Device Manager encountered an error, disk drives not installed correctly !!!"
+msgstr ""
+"Диспетчер устройств обнаружил ошибку, устройсва были установлены "
+"неправильно !!!"
+
+msgid "Device manager"
+msgstr "Менеджер устройств"
+
+msgid "Device: "
+msgstr "Устройсво: "
+
+msgid "Devices Panel"
+msgstr "Панель устройсв"
+
+msgid ""
+"Disk UUID not found\n"
+" - Universally unique identifier (UUID) is not required.\n"
+"You can proceed with further installation or give an ID to your disk.\n"
+"To continue the installation neoboo, press OK or No to abort."
+msgstr ""
+"UUID диска не найден\n"
+" - Универсальный уникальный идентификатор(UUID) не требуется.\n"
+"Вы можете продолжить установку или дать ID своему диску.\n"
+"Для продолжения установки нажмите OK или EXIT, чтобы прервать установку."
+
+msgid ""
+"Do You really want to install NeoBoot in:\n"
+" "
+msgstr ""
+"Установка NeoBoot запустится полностью автоматически и займет несколько "
+"секунд.\\n\n"
+"Хотите установить NeoBoot на выбранный носитель:  "
+
+msgid "Do not copy files from Flash to the installed image ?"
+msgstr "Скопировать файлы с Flash в создаваемый имидж ?"
+
+msgid "Do you really want to clear"
+msgstr "Действительно хотите очистить"
+
+msgid "Do you want to install ?"
+msgstr "Вы хотите установить ?"
+
+msgid "Do you want to run the manager to mount the drives correctly ?\n"
+msgstr ""
+"Вы хотите запустить менеджер, чтобы правильно смонтировать устройство?\n"
+
+msgid "Do you want to run the update now ?\n"
+msgstr "Вы хотите начать обновление сейчас?\n"
+
+msgid "Download Image"
+msgstr "Загрузить имидж"
+
+msgid "Download additional images from the network"
+msgstr "Загрузите дополнительные имиджи с Интернета"
+
+msgid "Download image..."
+msgstr "Загрузка имиджа..."
+
+msgid "Downloading available only from the image Flash."
+msgstr "Скачать доступные можно только с флеш."
+
+msgid "ERROR: Failed to create /dev/nomount file:"
+msgstr "ОШИБКА: файл не может быть создан в устройстве, нет монтирования :"
+
+msgid "ERROR: Failed to remove /dev/nomount file:"
+msgstr ""
+"ОШИБКА: Невозможно удалить ОШИБКА: файл не установлен в устройстве, нет "
+"подключения:"
+
+msgid "Error - NeoBoot has detected that the disks do not have a Label name.\n"
+msgstr "Ошибка - NeoBoot обнаружил, что диски не имеют имени тома.\n"
+
+msgid "Error Count Header"
+msgstr "Количество ошибок заголовка"
+
+msgid "Execution finished!!"
+msgstr "Выполнение окончено!!!"
+
+msgid "Execution progress:"
+msgstr "Ход выполнения:"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "External"
+msgstr "Внешний"
+
+msgid "External (CF)"
+msgstr "Внешний (CF)"
+
+msgid "External Storage %s"
+msgstr "Внешний диск %s"
+
+msgid "Extract contents of UBI image."
+msgstr "Извлечь содержание имиджа UBI."
+
+msgid "Failed"
+msgstr "Ошибка"
+
+msgid "Failed to detect Linux version:"
+msgstr "Не обнаружена версия Linux:"
+
+msgid "Failed to remove path '%s':"
+msgstr "Путь не может быть удален '%s':"
+
+msgid "File path doesn't exist."
+msgstr "Путь к файлу не существует."
+
+msgid "File to extract contents of."
+msgstr "Файл для извлечения контента.."
+
+msgid "File:  %s  remove ?"
+msgstr "Файл:  %s  удалить?"
+
+msgid "Finished"
+msgstr "Финиш"
+
+msgid "First start of software"
+msgstr "Первый запуск имиджа"
+
+msgid "Flash"
+msgstr "Флеш"
+
+msgid ""
+"For proper operation NeoBota type device is required USB stick or HDD, "
+"formatted on your system files Linux ext3 or ext4..\n"
+"\n"
+msgstr ""
+"Для правильной работы NeoBoot требуется память USB или HDD, "
+"отформатированная в файловой системе Linux ext3 или ext4...\n"
+"\n"
+
+msgid "GB"
+msgstr "Гб"
+
+msgid ""
+"GUI needs a restart.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Ресивер должен быть перезагружен..\n"
+"Вы хотите перезагрузить GUI ?"
+
+msgid "Have fun !!!"
+msgstr "Удачи !!!"
+
+msgid "Help"
+msgstr "Функции"
+
+msgid ""
+"Here is the list of mounted devices in Your STB\n"
+"Please choose a device where You would like to install NeoBoot"
+msgstr ""
+"Вот список подключенных устройств в вашем ресивере\n"
+"Пожалуйста, выберите устройство, на которое вы хотите установить NeoBoot"
+
+msgid "Hide Console"
+msgstr "Скрыть"
+
+msgid "INFORMACJE NeoBoot"
+msgstr "Информация NeoBoot"
+
+msgid ""
+"If you choose Yes, the Multibot image settings will be restored and only "
+"uninstalled. You can reinstall it"
+msgstr ""
+"Если вы выберете Да, настройки имиджа будут восстановлены и удален NeoBoot. "
+"Вы можете переустановить его"
+
+msgid ""
+"If you choose Yes, the pli image will be restored \n"
+"Multibot will only be uninstalled. \n"
+"You will be able to reinstall it"
+msgstr ""
+"Если вы выберете Да, имидж будет восстановлен \n"
+"Мультибут будет только удален. \n"
+"Вы сможете переустановить его"
+
+msgid "Image Name"
+msgstr "Имя имиджа"
+
+msgid "Image will be booted on the next STB boot!"
+msgstr "Имидж будет запущен при следующем запуске ресивера!"
+
+msgid "Image: %s"
+msgstr "Имидж: %s"
+
+msgid "In progress"
+msgstr "В процессе"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Info disc"
+msgstr "Устройства"
+
+msgid "Informacje NeoBoota"
+msgstr "Информация NeoBoot"
+
+msgid "Informacje instalacji image w NeoBoot"
+msgstr "Информация об установке имиджа в NeoBoot"
+
+msgid "Information available only when running Flash."
+msgstr "Информация доступна только при запуске с флеш."
+
+msgid "Initialize"
+msgstr "Инициализация"
+
+msgid "Initialize ext3"
+msgstr "активация ext3"
+
+msgid "Initialize ext4"
+msgstr "активация ext4"
+
+msgid "Initializing storage device..."
+msgstr "Инициализация устройства хранения..."
+
+msgid "Instalacja"
+msgstr "Установка"
+
+msgid ""
+"Instalacja nowego oprogramowania do neoboot, zalecane tylko z poziomu "
+"Flash!!!\n"
+"---Kontynuowac ?---"
+msgstr ""
+"Установка нового имиджа до neoboot, рекомендуется только с Flash !!!\n"
+"--- Продолжить? ---"
+
+msgid "Instalacja tylko z poziomu systemu flash."
+msgstr "Установка только с флеш-системы."
+
+msgid ""
+"Instalacja z poziomu Flash!!!\n"
+"---Kontynuowac ?---"
+msgstr ""
+"Установка с Flash!!!\n"
+"---Продолжить ?---"
+
+msgid "Install"
+msgstr "Установить"
+
+msgid "Install & run multiple images."
+msgstr "Установить и запустить несколько имиджей."
+
+msgid "Install Confirmation"
+msgstr "Подтвердить установку"
+
+msgid "Install Image"
+msgstr "Установка имиджа"
+
+msgid "Install Kernel"
+msgstr "Установить ядро"
+
+msgid "Install neobot from flash memory to all images"
+msgstr "Обновить NeoBoot с флеш на всех имиджах"
+
+msgid "Install software internal flash memory in media"
+msgstr "Установить внутреннюю флеш-память программно на носитель ?"
+
+msgid "Install the new images from the Internet"
+msgstr "Установить новые имиджи с интернета"
+
+msgid "Installation"
+msgstr "Установка"
+
+msgid "Installation aborted !"
+msgstr "Установка прервана!"
+
+msgid ""
+"Installation from Flash!!!\n"
+"---Continue ?---"
+msgstr ""
+"Установка с Flash !!!\n"
+"--- Продолжить? ---"
+
+msgid "Installation new image. "
+msgstr "Установка нового имиджа "
+
+msgid "Installation operation canceled. This is not a vuplus box !!!"
+msgstr "Установка не удалась. Это не ресивер VU+ !!!"
+
+msgid "Installation with risk "
+msgstr "Установка на ваш страх и риск "
+
+msgid "Installing a proven and successful !!!!"
+msgstr "Установка проверена и эффективна !!!"
+
+msgid "Installing multiple images"
+msgstr "Установка нескольких имиджей"
+
+msgid ""
+"Installing new neoboot software, only recommended from Flash!!!\n"
+"---Continue ?---"
+msgstr ""
+"Установка нового имиджа в NeoBoot, рекомендуется только с Flash !!!\n"
+"--- Продолжить? ---"
+
+msgid "Installing packages ..."
+msgstr "Установка пакетов..."
+
+msgid "Instruction"
+msgstr "Инструкция"
+
+msgid "Internal"
+msgstr "Внутренний"
+
+msgid "Internal flash"
+msgstr "Внутреняя флеш"
+
+msgid ""
+"It is recommended to install new software only from a flash system.\n"
+"---NEOBOOT EXIT---"
+msgstr ""
+"Рекомендуется устанавливать имидж только с флеш-системы.\n"
+"--- NEOBOOT EXIT ---"
+
+msgid "Kernel\n"
+msgstr "Ядро\n"
+
+msgid "Kernel %s"
+msgstr "Ядро %s"
+
+msgid "Kernel Version: "
+msgstr "Версия ядра: "
+
+msgid "Kernel"
+msgstr "Ядро"
+
+msgid "Kernel-Version: "
+msgstr "Версия ядра: "
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "Kopia Zapasowa"
+msgstr "Начать"
+
+msgid "Kopia Zapasowa NeoBoota"
+msgstr "Резервная копия NeoBoot"
+
+msgid "Kopia o nazwie NeoBoot_Backup.tar.gz zostala utworzona w lokalizacji:"
+msgstr "Имя файла NeoBoot_Backup.tar.gz было сохранено по пути:"
+
+msgid ""
+"Kopia zapasowa zostanie zapisana w lokalizacji /media/neoboot. Trwa "
+"wykonywanie...."
+msgstr "Резервная копия будет сохранена в /media/neoboot. Выполнение ..."
+
+msgid "Kopie Zapasowe znajduje sie w katalogu "
+msgstr "Копия будет создана по пути "
+
+msgid ""
+"Kopie Zapasowe znajduje sie w katalogu /media/neoboot/NeoBootImageBackup"
+msgstr "Копия будет создана по пути /media/neoboot/NeoBootImageBackup"
+
+msgid "List of supported stb."
+msgstr "Список поддерживаемых ресиверов"
+
+msgid "MB"
+msgstr "Mб"
+
+msgid "MENU &gt;"
+msgstr "МЕНЮ &gt;"
+
+msgid "MOUNTING. / Restart image.'"
+msgstr "МОНТИРОВАНИЕ./ Презагрузите ресивер.'"
+
+msgid "MOUNTING...."
+msgstr "Монтирование...."
+
+msgid "Maintain file permissions, requires running as root. (default: False)"
+msgstr ""
+"Сохраняйте права доступа к файлам, требуется запуск от имени пользователя "
+"root. (дефолт: False)"
+
+msgid "Make a copy of the image from NeoBoot"
+msgstr "Создать копию имиджа c NeoBoot"
+
+msgid "Make a copy of the image:"
+msgstr "Создать копию имиджа:"
+
+msgid "Make complete copy NeoBoot"
+msgstr "Создать копию плагина NeoBoot"
+
+msgid "Make copy"
+msgstr "Создать копию"
+
+msgid "Masz jeszcze wolne:"
+msgstr "Доступно памяти:"
+
+msgid "Masz jeszcze wolne: "
+msgstr "Доступно памяти: "
+
+msgid "Memory disc:"
+msgstr "Память диска:"
+
+msgid "Menedzer urzadzen"
+msgstr "Менеджер монтирования"
+
+msgid ""
+"Meoboot detected that is not installed on the model VuPlus, you can not run "
+"an image BlackHole !!!"
+msgstr ""
+"NeoBoot обнаружил, что он не установлен на модели VU+, образ BlackHole не "
+"может быть запущен !!!"
+
+msgid "More options"
+msgstr "--БОЛЬШЕ--"
+
+msgid "Mount"
+msgstr "Монтировать"
+
+msgid "Mount Internal Flash"
+msgstr "Смонтировать Flash на USB/HDD"
+
+msgid "Mount Manager"
+msgstr "Менеджер монтирования"
+
+msgid "Mount Manager."
+msgstr "Менеджер монтирования."
+
+msgid "Multi image"
+msgstr "Установка нескольких имиджей"
+
+msgid ""
+"NEOBOOT - Please reinstall NeoBoot....\n"
+"Please wait, done...\n"
+"restart systemu..."
+msgstr ""
+"NEOBOOT - Переустановите NeoBoot....\n"
+"Подождите, готово...\n"
+"перезагрузка системы..."
+
+msgid "NEOBOOT is booting image from"
+msgstr "NEOBOOT загружает имидж"
+
+msgid "NEOBoot: Install new image"
+msgstr "NEOBoot: установка нового имиджа"
+
+msgid "NeoBoot - Image Installation"
+msgstr "NeoBoot-Установка имиджа"
+
+msgid "NeoBoot - Menu"
+msgstr "NeoBoot-Меню"
+
+msgid "NeoBoot - Opis"
+msgstr "Информация NeoBoot"
+
+msgid "NeoBoot - clear downloaded image"
+msgstr "NeoBoot - очистка имиджа"
+
+msgid "NeoBoot - deleting backup files ....."
+msgstr "NeoBoot - удаление файлов ....."
+
+msgid "NeoBoot Arm...."
+msgstr "NeoBoot ARM & Mipsel...."
+
+msgid "NeoBoot Backup"
+msgstr "Создать копию плагина NeoBoot ?"
+
+msgid "NeoBoot Information"
+msgstr "Информация NeoBoot"
+
+msgid "NeoBoot Install...."
+msgstr "NeoBoot установка...."
+
+msgid "NeoBoot Przywracanie Obrazu"
+msgstr "NeoBoot Восстановление имиджа"
+
+msgid "NeoBoot Skin Change"
+msgstr "NeoBoot Смена Скина"
+
+msgid "\\  NeoBoot Ver. "
+msgstr "\\ NeoBoot Вер. "
+
+msgid " - NeoBoot Ver. updates "
+msgstr " - NeoBoot Вер. обновл. "
+
+msgid "NeoBoot Wersja "
+msgstr "Версия NeoBoot "
+
+msgid "NeoBoot has been installed succesfully !"
+msgstr "NeoBoot был успешно установлен"
+
+msgid ""
+"NeoBoot has detected that it is running image blackhole.\n"
+"To change the image should return to Flash !!! \n"
+"\n"
+"Start selected image now ?"
+msgstr ""
+"NeoBoot обнаружил, что имидж BlackHole.\n"
+"Чтобы изменить имидж, вернитесь на флеш !!!\n"
+"\n"
+"Теперь запустить выбранный имидж ?"
+
+msgid "NeoBoot has detected that the disks have been given Label names.\n"
+msgstr "NeoBoot обнаружил, что дискам были присвоены имена меток.\n"
+
+msgid ""
+"NeoBoot has detected update.\n"
+"Do you want to update NeoBoota now ?"
+msgstr ""
+"NeoBoot обнаружил обновление.\n"
+"Хотите обновить сейчас NeoBoot ?"
+
+msgid "NeoBoot has not been installed ! :("
+msgstr "NeoBoot ошибка установки !"
+
+msgid "NeoBoot has not been installed !!!"
+msgstr "NeoBoot не был установлен !!!"
+
+msgid "NeoBoot installation image"
+msgstr "NeoBoot установка имиджа"
+
+msgid "NeoBoot installd kernel-image..."
+msgstr "NeoBoot установка файлов ядра имиджа..."
+
+msgid ""
+"NeoBoot is based on EGAMIBoot < mod by gutosie >\n"
+"\n"
+msgstr ""
+"NeoBoot основан на EGAMIBoot < mod by gutosie >\n"
+"\n"
+
+msgid "NeoBoot is based on a egamiboot < mod by gutosie and madu >\n"
+msgstr "NeoBoot основанный на egamiboot <Мод gutosie и madu>\n"
+
+msgid "NeoBoot is reinstall..."
+msgstr "NeoBoot переустановка..."
+
+msgid "NeoBoot is removing..."
+msgstr "NeoBoot удаляется..."
+
+msgid "NeoBoot is running from:"
+msgstr "NeoBoot установлен с:"
+
+msgid "NeoBoot is running image:"
+msgstr "Текущий работающий имидж:"
+
+msgid "NeoBoot new Image download"
+msgstr "NeoBoot загрузка нового Имиджа"
+
+msgid "NeoBoot nie obsluguje tego modelu stb!!! "
+msgstr "NeoBoot не поддерживает эту модель STB! "
+
+msgid ""
+"NeoBoot successfully updated IPTVPlayer.\n"
+"Have fun !!"
+msgstr ""
+"NeoBoot IPTVPlayer успешно обновлен.\n"
+"Удачи !!"
+
+msgid ""
+"NeoBoot successfully updated list tv.\n"
+"Have fun !!"
+msgstr ""
+"NeoBoot успешно обновил список тв.\n"
+"Удачи !!"
+
+msgid ""
+"NeoBoot successfully updated list tv.\n"
+"Have fun !!!"
+msgstr ""
+"NeoBoot успешно обновил список ТВ. \n"
+"Удачи!!!"
+
+msgid ""
+"NeoBoot successfully updated. You can restart the plugin now.\n"
+"Have fun !!"
+msgstr ""
+"NeoBoot успешно обновлен. Вы можете перезапустить плагин сейчас.\n"
+"Удачи !!!"
+
+msgid ""
+"NeoBoot successfully updated. You can restart the plugin now.\n"
+"Have fun !!!"
+msgstr ""
+"NeoBoot был успешно обновлен. Теперь вы можете перезапустить плагин .\n"
+"Удачи !!!"
+
+msgid "NeoBoot tools"
+msgstr "Функции NeoBoot"
+
+msgid "NeoBoot version: "
+msgstr "Версия NeoBoot: "
+
+msgid ""
+"NeoBoot wykryl niezgodnos kernela w flash, \n"
+"Zainstalowac kernel dla flash image ? ?"
+msgstr ""
+"NeoBoot обнаружил неправильную версию ядра, \n"
+"Установить версию ядра для имиджа ? ?"
+
+msgid "NeoBoot: Backup Image"
+msgstr "NeoBoot: Резервное копирование имиджа"
+
+msgid "NeoBoot: Backup files deleted!"
+msgstr "NeoBoot: Файлы удалены!"
+
+msgid "NeoBoot: Complete Skin Change!"
+msgstr "NeoBoot: Полная смена скина!"
+
+msgid "NeoBoot: Deleting All Images"
+msgstr "NeoBoot: Удаление всех имиджей"
+
+msgid "NeoBoot: Deleting Image"
+msgstr "NeoBoot: Удаление имиджа"
+
+msgid "NeoBoot: Download Image...."
+msgstr "NeoBoot: Загрузка имиджа...."
+
+msgid "NeoBoot: Install new image"
+msgstr "NeoBoot: Установка нового имиджа"
+
+msgid "NeoBoot: Kopia Zapasowa KOMPLETNA ! "
+msgstr "NeoBoot: полная резервная копия! "
+
+msgid "NeoBoot: Kopia Zapasowa Obrazu"
+msgstr "NeoBoot: резервное копирование имиджей"
+
+msgid "NeoBoot: Lista wspieranych modeli STB."
+msgstr "NeoBoot: Список поддерживаемых ресиверов."
+
+msgid "NeoBoot: Restore COMPLETE !"
+msgstr "NeoBoot: ПОЛНОЕ восстановление !"
+
+msgid "NeoBoot: Restore Image"
+msgstr "NeoBoot: Восстановление имиджа"
+
+msgid "NeoBoot: Start image..."
+msgstr "NeoBoot: Запуск имиджа ..."
+
+msgid ""
+"NeoBoot: Upgrading in progress\n"
+"Please wait..."
+msgstr ""
+"NeoBoot: обновление \n"
+"Пожалуйста подождите ..."
+
+msgid ""
+"NeoBot - First use the Device Manager and mount the drives correctly !!!"
+msgstr ""
+"NeoBoot - Сначала используйте диспетчер устройств и правильно смонтируйте "
+"устройсва  !!!"
+
+msgid ""
+"NeoBot - First use yellow button and Set Disk Label!\n"
+"Without labeling disc neoboot may not work properly"
+msgstr ""
+"NeoBot - Сначала используйте желтую кнопку и установите метку диска!\n"
+"Без маркировки диска, NeoBoot может работать некорректно."
+
+msgid "NeoBot - choose what you want to do, install or not !!!"
+msgstr "NeoBot - выберите, что Вы хотите сделать, установить или нет."
+
+msgid ""
+"NeoBot checks the connected media.\n"
+"WAIT ...\n"
+"\n"
+"DISCS:"
+msgstr ""
+"NeoBoot проверяет подключенные носители.\n"
+"ПОДОЖДИТЕ...\n"
+"НОСИТЕЛЬ:"
+
+msgid ""
+"NeoBot has detected that it is not running image from the memory of the "
+"decoder.\n"
+"Start selected image now ?"
+msgstr ""
+"NeoBoot обнаружил, что имидж не работает с памяти ресивера. \n"
+"Запустить выбранный имидж ?"
+
+msgid "NeoBot started installing new image.\n"
+msgstr "NeoBoot начал устанавливать новый имидж.\n"
+
+msgid ""
+"NeoBot was removed !!! \n"
+"The changes will be visible only after complete restart of the receiver."
+msgstr ""
+"NeoBoot был удален !!! \n"
+"Изменения не будут видны до перезапуска ресивера."
+
+msgid "Neoboot: Restore COMPLETE !"
+msgstr "Neoboot: Действие ВЫПОЛНЕНО !"
+
+msgid "New system installation complete. EXIT "
+msgstr "Установка нового имиджа завершена. EXIT "
+
+msgid "Nie wykryto odpowiedniego STB do instalacji !!!!"
+msgstr "Подходящие STB не обнаружены для установки !!!!"
+
+msgid "No blocks found."
+msgstr "Блоки не найдены."
+
+msgid "No file location NeoBot, do re-install the plugin."
+msgstr "Расположение файла NeoBoot отсутствует, переустановите плагин."
+
+msgid "Not Detected kernel-module-nandsim, install ?"
+msgstr "Не найден kernel-module-nandsim, установить ?"
+
+msgid "Number of images installed:"
+msgstr "Количество имиджей:"
+
+msgid "OK Start image..."
+msgstr "<<OK>> Установка имиджа..."
+
+msgid "Odinstalowanie  NeoBoota"
+msgstr "Удалить NeoBoot"
+
+msgid "Odinstaluj"
+msgstr "Удалить"
+
+msgid "Odinstaluj NeoBoota"
+msgstr "Удалить NeoBoot"
+
+msgid "Overwrite the files of the module and firmware ?"
+msgstr "Заменить модуль и файлы прошивки?"
+
+msgid "Package installation is complete. You can test image BlackHole ..."
+msgstr "Установка пакета завершена. Вы можете проверить имидж BlackHole ..."
+
+msgid "Package installation is complete. You can test new image."
+msgstr "Установка пакета завершена. Вы можете проверить новый имидж."
+
+msgid "Partition %d"
+msgstr "Раздел %d"
+
+msgid "Partition(mountpoint=%s,description=%s,device=%s)"
+msgstr "Раздел(точка монтирования=%s,opis=%s,устройство=%s)"
+
+msgid "Path BlackHole ? (Not recommended for VuPlus)"
+msgstr "Путь BlackHole ?(Не рекомендованно для VU+)"
+
+msgid "Path to save not exist: '/tmp/'"
+msgstr "Путь к сохранению не существует: '/tmp/'"
+
+msgid "Please choose an image to boot"
+msgstr "Выбрать имидж для установки"
+
+msgid ""
+"Please name NeoBootUpdate.tar.gz for the downloaded file and upload to / tmp "
+"and try again.\n"
+msgstr ""
+"Пожалуйста, введите имя NeoBootUpdate.tar.gz для загруженного файла, "
+"загрузите в /tmp и попробуйте снова...\n"
+
+msgid ""
+"Please wait, NeoBoot works, backup may take a few moments, the process is "
+"ongoing ..."
+msgstr ""
+"Подождите пожалуйста, NeoBoot работает, копия может занять несколько минут, "
+"процесс продолжается ..."
+
+msgid "Please wait, NeoBot is working, skin change is progress..."
+msgstr "Пожалуйста, подождите, NeoBoot работает, смена скина - в действии..."
+
+msgid "Please, wait..."
+msgstr "Подождите пожалуйста..."
+
+msgid "Please, wait...\n"
+msgstr "Пожалуйста, подождите...\n"
+
+msgid "Please, wait...."
+msgstr "Пожалуйста подождите...."
+
+msgid "Please: DO NOT reboot your STB and turn off the power.\n"
+msgstr "ЗАПРЕЩЕННО перезапускать или выключать питание ресивера.\n"
+
+msgid ""
+"Podziekowania wszystkim tu niewspomnianym za udzielenie pomocy w ulepszaniu "
+"NeoBoota \n"
+"\n"
+msgstr ""
+"Спасибо всем, кто не упомянут здесь, за помощь в улучшении NeoBoot \n"
+"\n"
+
+msgid "Potwierdzenie Przywracania"
+msgstr "Подтверждение восстановления"
+
+msgid "Potwierdzenie kopii zapasowej"
+msgstr "Подтверджение бекапа"
+
+msgid "Preserve"
+msgstr "Скрыть"
+
+msgid "Processor"
+msgstr "Процесор"
+
+msgid "Przywrocic kopie NeoBoota z lokalizacji /media/neoboot  ?"
+msgstr "Восстановить копию NeoBoot с папки /media/neoboot ?"
+
+msgid "RESTART ZA 15 sekund..."
+msgstr "ПЕРЕЗАГРУЗКА через 15секунд..."
+
+msgid "Recovering setting....\n"
+msgstr "Возврат исходных настроек.....\n"
+
+msgid "Reinstalacja  NeoBoota"
+msgstr "Переустановить NeoBoot"
+
+msgid "Reinstall NeoBoot"
+msgstr "Переуст. NeoBoot"
+
+msgid "Reinstall kernel"
+msgstr "Переуст. ядро"
+
+msgid "Reinstall neoboot ?"
+msgstr "Переустановить neoboot ?"
+
+msgid ""
+"Reinstall the kernel.\n"
+"\n"
+"Install ?"
+msgstr ""
+"Переустановка ядра.\n"
+"\n"
+"Установить ?"
+
+msgid "Reject"
+msgstr "Отклонить"
+
+msgid "Remove Image "
+msgstr "Удалить имидж "
+
+msgid "Remove NeoBoot of STB"
+msgstr "Удалить NeoBoot"
+
+msgid "Remove password ftp for the new Image ?"
+msgstr "Удалить пароль ftp для нового изображения ?"
+
+msgid "Remove the plug"
+msgstr "Удалить плагин"
+
+msgid "Remove zip file after installation ?"
+msgstr "Удалить ZIP-файл после установки ?"
+
+msgid "Removed successfully."
+msgstr "Удаление плагина."
+
+msgid "Removing canceled!"
+msgstr "Удаление отменено!"
+
+msgid "Removing partition table"
+msgstr "Удалить все разделы"
+
+msgid "Removing the root password."
+msgstr "Удалить пароль root"
+
+msgid "Repair FTP ? (Recommended only other image if it does not work.)"
+msgstr "Восстановить FTP соединение? (Для имиджей другого типа.)"
+
+msgid "Rereading partition table"
+msgstr "Перезаписать разделы еще раз"
+
+msgid "Resignation."
+msgstr "Отмена!"
+
+msgid "Restart GUI now?"
+msgstr "Перезапустить GUI?"
+
+msgid "Restore"
+msgstr "Восстановить"
+
+msgid "Restore Confirmation"
+msgstr "Подтвердить действие"
+
+msgid "Restore a copy of the image to NeoBoot"
+msgstr "Восстановить копию имиджа в NeoBoot"
+
+msgid "Restore copy NeoBoot"
+msgstr "Восстановить копию плагина NeoBoot"
+
+msgid "Restoring backup"
+msgstr "Восстановить копию"
+
+msgid "Return to installation..."
+msgstr "Вернуться к установке Neoboot..."
+
+msgid "Rezygnacja."
+msgstr "Отмена."
+
+msgid "Run"
+msgstr "Начать"
+
+msgid "Run the device manager ?"
+msgstr "Запустить Менеджер монтирования ?"
+
+msgid "STB name:"
+msgstr "Имя ресивера:"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid ""
+"Save the commands and the output to a file?\n"
+"('%s')"
+msgstr ""
+"Сохранить команды и вывод в файл?\n"
+"('%s')"
+
+msgid "Select OK to run the image."
+msgstr "Нажмите OK, чтобы установить имидж."
+
+msgid ""
+"Select Yes to lock or No to unlock.\n"
+"  %s     ?"
+msgstr ""
+"Выберите Да, чтобы заблокировать или Нет, чтобы разблокировать.\n"
+" %s ?"
+
+msgid ""
+"Select Yes to reinstall neoboota.\n"
+"     NEOBOOT."
+msgstr ""
+"Выберите Да, чтобы переустановить neoboot.\n"
+"    NEOBOOT."
+
+msgid ""
+"Select Yes to reinstall the neoboot.\n"
+"     NEOBOOT."
+msgstr ""
+"Выберите Да, чтобы переустановить плагин.\n"
+"     NEOBOOT."
+
+msgid ""
+"Select an image to restore or delete:\n"
+" "
+msgstr ""
+"Выберите имидж для восстановления или удаления:\n"
+" "
+
+msgid "Select the copy you want to restore"
+msgstr "Выберите имидж для бекапа"
+
+msgid "Select the image from which you want to make copies"
+msgstr "Выберите имидж, с которого вы хотите сделать копию"
+
+msgid "Select to delete."
+msgstr "Выберите, чтобы удалить."
+
+msgid "SetupMounts"
+msgstr "Настройки монтирования"
+
+msgid "Skin Change confirmation"
+msgstr "Подтверждение смены скина"
+
+msgid "Skin Change: %s now ?"
+msgstr "Изменить скин: %s сейчас ?"
+
+msgid "Skin change"
+msgstr "Сменить скин плагина"
+
+msgid "Software selected: %s remove ?"
+msgstr "Выбранный имидж: %s удалить ?"
+
+msgid ""
+"Sorry it seems that there are not Linux formatted devices mounted on your "
+"STB. To install NeoBoot you need a Linux formatted part1 device."
+msgstr ""
+"К сожалению, похоже, что в ресивере не установлены должным образом "
+"отформатированные устройства. Для установки NeoBoot необходимо "
+"отформатировать устройство в формате linux."
+
+msgid ""
+"Sorry it seems that there are not Linux formatted devices mounted on your "
+"STB. To install NeoBoot you need a Linux formatted part1 device. Click on "
+"the blue button to open Devices Panel"
+msgstr ""
+"Извините, но на вашем ресивере нет устройств, отформатированных под Linux. "
+"Для установки NeoBoot вам понадобится устройство part1 в формате Linux. "
+"Нажмите на синюю кнопку, чтобы открыть панель устройств"
+
+msgid "Sorry the name of the new Image is too long."
+msgstr ""
+"К сожалению, название нового имиджа слишком длинное. Пожалуйста, дайте более "
+"короткое имя."
+
+msgid ""
+"Sorry there is not enought available space on your device. You need at least "
+"800 Mb free to install a new image."
+msgstr ""
+"К сожалению, на вашем устройстве недостаточно свободного места. Вам нужно "
+"как минимум 800 МБ свободного места для установки нового имиджа."
+
+msgid "Sorry this name is reserved. Choose another name for the new Image."
+msgstr ""
+"К сожалению, это имя уже используется. Выберите другое имя для нового имиджа."
+
+msgid "Sorry you can delete only from the image Flash."
+msgstr "Извините, удалить можно только с имиджа на Flash."
+
+msgid "Sorry you cannot delete Flash image"
+msgstr "Извините, вы не можете удалить имидж, установлен в памяти ресивера"
+
+msgid "Sorry you cannot delete the image currently booted from."
+msgstr "Извините, вы не можете удалить имидж запущенный на данный момент."
+
+msgid ""
+"Sorry you cannot overwrite the image currently booted from. Please, boot "
+"from Flash to restore this backup."
+msgstr ""
+"К сожалению, текущий работающий имидж не может быть заменен. Пожалуйста, "
+"запустите его c флеш-памяти, чтобы восстановить резервную копию."
+
+msgid "Sorry, IPTVPlayer not found."
+msgstr "Извините, IPTVPlayer не найден."
+
+msgid "Sorry, Meoboot can be installed or upgraded only when booted from Flash"
+msgstr ""
+"К сожалению, NeoBoot может установить имидж или обновиться только тогда, "
+"когда он работает с флеш-памяти"
+
+msgid ""
+"Sorry, NeoBoot can installed or upgraded only when booted from Flash STB"
+msgstr ""
+"Извините, NeoBoot может быть установлен или обновлен только при загрузке с "
+"Flash ресивера"
+
+msgid "Sorry, NeoBoot can installed or upgraded only when booted from Flash."
+msgstr ""
+"Извините, NeoBoot может быть установлен или обновлен только при запуске с "
+"Флеш."
+
+msgid "Sorry, NeoBot installs new images only from the Flash"
+msgstr "Извините,NeoBoot устанавливает новые имиджи только с флеш"
+
+msgid "Sorry, Neoboot can be installed or upgraded only when booted from Flash"
+msgstr ""
+"К сожалению, подобные действия в Neoboot можно сделать только при загрузке с "
+"Flash."
+
+msgid "Sorry, an Image with the name "
+msgstr "Извините, Имидж с названием "
+
+msgid "Sorry, not find skin neoboot."
+msgstr "Извините, нет скина NeoBoot."
+
+msgid "Sorry, the operation is not possible from Flash"
+msgstr "Извините, операция невозможна с Flash."
+
+msgid ""
+"Sorry, there is not any connected devices in your STB.\n"
+"Please connect HDD or USB to install NeoBoot!"
+msgstr ""
+"К сожалению, в вашем ресивере нет подключенных устройств.\n"
+"Пожалуйста, подключите USB или HDD для установки NeoBoot!"
+
+msgid ""
+"Sorry: Wrong image in flash found. You have to install in flash OpenSPA Image"
+msgstr ""
+"Приносим извинения: на флеш-памяти был найден неправильный имидж. Вам "
+"необходимо установить его на флеш-память OpenPLi"
+
+msgid "Source Image file"
+msgstr "Исходный файл имиджа"
+
+msgid "Specify PEB size"
+msgstr "Укажите размер PEB"
+
+msgid "Specify output directory path."
+msgstr "Укажите путь к выходному каталогу."
+
+msgid "Sprawdz poprawnosc instalacji neoboota"
+msgstr "Проверить установку NeoBoot"
+
+msgid "Sprawdzanie poprawnosci zainstalwoanych modulow dla NeoBoota"
+msgstr "Проверка установленных модулей для NeoBoot"
+
+msgid "Start"
+msgstr "Начать"
+
+msgid "Start - Red"
+msgstr "Начать"
+
+msgid "Start innego image z Flash za 5 sekund -RESTART-..."
+msgstr "Старт другого имиджа через 5 секунд -RESTART-..."
+
+msgid "Start offset larger than file size!"
+msgstr "Начать смещение больше размера файла!"
+
+msgid "Start the chosen system now ?"
+msgstr "Установить выбраный имидж сейчас ?"
+
+msgid "Start the device manager"
+msgstr "Открыть менеджер устройств"
+
+msgid "Start the device manager ?"
+msgstr "Запустить диспетчер устройств ?"
+
+msgid "Start the new image after installation ?"
+msgstr "Установить новый имидж после установки ?"
+
+msgid "Start with change kernel - Recommended"
+msgstr "Начать с изменения ядра - Рекомендуется"
+
+msgid "Stop E2 processes during installation?"
+msgstr "Остановить Enigma2 на время установки ?"
+
+msgid "Stop action"
+msgstr "Отмена"
+
+msgid "Stop processes E2 for installation ?"
+msgstr "Остановить процессы E2 для установки ?"
+
+msgid "SuperBoot deleting backup files ....."
+msgstr "SuperBoot удаление файлов резервных копий ....."
+
+msgid "SuperBoot: Backup files deleted"
+msgstr "SuperBoot: Резервные файлы удалены"
+
+msgid "Superboot: Restore COMPLETE !"
+msgstr "Superboot: Восстановлено ПОЛНОСТЬЮ!"
+
+msgid "Supported sat tuners"
+msgstr "Поддерживаемые спутниковые ресиверы"
+
+msgid "Suppress warnings and non-fatal errors. (default: False)"
+msgstr "Пропустить предупреждения и критические ошибки. (дефолт: False)"
+
+msgid "TV list copied."
+msgstr "Был скопирован список ТВ."
+
+msgid "The amount of free space in the Superbot: "
+msgstr "Количество свободного места в Суперботе: "
+
+msgid ""
+"The authors plug NeoBot not liable for damage a receiver, NeoBoota incorrect "
+"use or installation of unauthorized additions or images.!!!\n"
+"\n"
+msgstr ""
+"Авторы плагина NeoBoot не несут ответственности за повреждение ресивера, "
+"неправильное использование NeoBoot или установку несанкционированных "
+"дополнений, имиджей.!!!\n"
+"\n"
+
+msgid "The backup will be saved to /media/neoboot. Performing ..."
+msgstr "Копия плагина будет сохранена в /media/hdd. Выполнение ..."
+
+msgid ""
+"The directory %s is not a EXT2, EXT3, EXT4 or NFS partition.\n"
+"Make sure you select a valid partition type."
+msgstr ""
+"Это устройство %s не отформатировано в EXT2, EXT3, EXT4 или NFS формат.\n"
+"Убедитесь, что вы выбрали правильный тип раздела."
+
+msgid ""
+"The directory %s is not writable.\n"
+"Make sure you select a writable directory instead."
+msgstr ""
+"Каталог %s недоступен для записи.\n"
+"Убедитесь, что вы выбрали верный каталог."
+
+msgid "The download neoboot update."
+msgstr "Скачать обновление NeoBoot."
+
+msgid ""
+"The installation has encountered an error !!!.\n"
+"This may be no connection to the server or the link has expired.\n"
+"When installing a new image use options ubi_reader..."
+msgstr ""
+"Произошла ошибка при установке !!!..\n"
+"Причиной может быть отсутствие соединения с сервером или истек срок действия "
+"соединения.\n"
+"При установке нового имиджа используйте опцию ubi_reader ..."
+
+msgid "The installation process may take a few minutes.\n"
+msgstr "Процесс установки может занять несколько минут.\n"
+
+msgid "The operation has been canceled or meoboot is not running in stb VuPlus"
+msgstr "Операция была отменена или NeoBoot не работает с VU+"
+
+msgid ""
+"The required space on the device is 300 MB.\n"
+"Do you want to take this image: %s \n"
+"now ?"
+msgstr ""
+"Требуемая память на устройстве не менее 300 Мб.\n"
+"Вы хотите сделать копию: %s \n"
+"сейчас ?"
+
+msgid "The selected image starts after you hard reboot tuner."
+msgstr "Выбранный имидж начнется после полной перезагрузки ресивера."
+
+msgid ""
+"The tuner is not supported by NeoBoot.\n"
+"Contact the author.\n"
+"No proper STB for installation !!!!"
+msgstr ""
+"NeoBoot не поддерживает ресивер.\n"
+"Свяжитесь с автором.\n"
+"Не правильный STB для установки !!!!"
+
+msgid "The update file is available at http://all-forum.cba.pl\n"
+msgstr "Файл обновления доступен по адресу http://all-forum.cba.pl\n"
+
+msgid "The update has been canceled."
+msgstr "Обновление было отменено."
+
+msgid "There is no NeoBootUpdate.tar.gz to install.\n"
+msgstr "В NeoBootUpdate нет файла для установки !\n"
+
+msgid "This Device is already mounted as HDD. "
+msgstr "Это устройство уже установлено как жесткий диск. "
+
+msgid "To use the new skin please restart enigma2"
+msgstr "Чтобы использовать скин, пожалуйста, перезапустите enigma2"
+
+msgid ""
+"Translation: gutosie\n"
+"\n"
+msgstr ""
+"Перевод: gutosie\n"
+"\n"
+
+msgid ""
+"Tuner nie jest wspierany przez NeoBoota.\n"
+"Skontaktuj sie z autorem.\n"
+"Nie wykryto odpowiedniego STB do instalacji !!!!"
+msgstr ""
+"Тюнер не поддерживается NeoBoot.\n"
+"Свяжитесь с автором.\n"
+"Не правильный ресивер для установки !!!!"
+
+msgid "Type: "
+msgstr "Тип: "
+
+msgid "UBIFS Common Header"
+msgstr "Общий заголовок UBIFS"
+
+msgid "UBIFS Data Node"
+msgstr "Узел данных UBIFS"
+
+msgid "UBIFS Directory Entry Node"
+msgstr "Узел ввода каталога UBIFS"
+
+msgid "UBIFS Index Node"
+msgstr "Индексный узел UBIFS"
+
+msgid "UBIFS Master Block Node"
+msgstr "Главный блок узла UBIFS"
+
+msgid "UBIFS Super Block Node"
+msgstr "Блок суперузлов UBIFS"
+
+msgid ""
+"Udanej zabawy :)\n"
+"\n"
+msgstr ""
+"Удачи !!!\n"
+"\n"
+
+msgid "Unable to determine structure of /dev"
+msgstr "Структура на устройстве не может быть определена"
+
+msgid ""
+"Unfortunately you cannot backup from flash with this plugin\n"
+" Install backupsuite to copy the image from flash memory"
+msgstr ""
+"К сожалению, вы не можете сделать копию с флеш-памяти с этим плагином \n"
+" Установите копию для копирования имиджа с флеш-памяти"
+
+msgid ""
+"Unfortunately you cannot backup from flash with this plugin. \n"
+"Install backupsuite to a copy of the image from flash memory."
+msgstr ""
+"К сожалению, вы не можете сделать резервную копию с флеш-памяти с помощью "
+"этого плагина. \n"
+"Установите плагин резервного копирования имиджа с флеш-памяти."
+
+msgid "Unfortunately, at the moment not found an update, try again later."
+msgstr "Извините, обновлений не найдено, попробуйте позже."
+
+msgid "Uninstall NeoBoot"
+msgstr "Удалить NeoBoot"
+
+msgid "Uninstall NeoBoot?"
+msgstr "Удалить NeoBoot?"
+
+msgid "Unmount"
+msgstr "Размонтировать"
+
+msgid "Unpack the image - no change."
+msgstr "Распакуйте имидж - без изменений."
+
+msgid "Unpack the image tar.bz2 4K"
+msgstr "Розпаковать файл tar.bz2 4K"
+
+msgid "Update IPTVPlayer on installed image."
+msgstr "Обновить IPTVPlayer на всех имиджах"
+
+msgid "Update NeoBoot"
+msgstr "Обновить NeoBoot"
+
+msgid "Update NeoBoot on all images."
+msgstr "Обновить NeoBoot на всех имиджах"
+
+msgid "Update NeoBot"
+msgstr "Обновить NeoBoot"
+
+msgid "Update TV list on installed image."
+msgstr "Обновить ТВ-каналы на всех имиджах"
+
+msgid "Update neoboot in all images ?"
+msgstr "Обновить Neoboot на всех имиджах ?"
+
+msgid ""
+"Updated unnecessary, you have the latest version. Please try again later."
+msgstr ""
+"Обновление не требуется, у вас последняя версия. Пожалуйста, попробуйте "
+"позже."
+
+msgid "Uruchom"
+msgstr "Начать"
+
+msgid "Uruchom - Red"
+msgstr "Начать"
+
+msgid "Uruchomic Device Manager ?"
+msgstr "Запустить диспетчер устройств ?"
+
+msgid "Use  ubi_reader"
+msgstr "Применить  ubi_reader"
+
+msgid "Use nandsim"
+msgstr "Применить nandsim (рекомендованно)"
+
+msgid "Use options with the boot manager."
+msgstr "Используйте параметры с менеджера загрузки (рекомендованно)"
+
+msgid "Use options without the boot manager."
+msgstr "Используйте опцию без менеджера загрузки."
+
+msgid "Use the next start."
+msgstr "Используйте следующую загрузку."
+
+msgid "Used Kernel:"
+msgstr "Используемое ядро:"
+
+msgid "Used Kernel:  Flash"
+msgstr "Установлено ядро:  Flash"
+
+msgid "Used: "
+msgstr "Занято памяти: "
+
+msgid "Usuniecie hasla do root."
+msgstr "Удаление пароля root."
+
+msgid "Usuwanie pobranych obrazow...."
+msgstr "Удаление загруженных имиджей...."
+
+msgid ""
+"Uwaga!!!\n"
+"---Zrestartuj calkowicie system!!!---"
+msgstr ""
+"Внимание!!!\n"
+"---Перезагрузите полностью ресивер!!!---"
+
+msgid "Ver. update:  %s"
+msgstr "Вер. обновления:  %s"
+
+msgid "Ver. updates    "
+msgstr "Вер. обновления    "
+
+msgid "Version update: "
+msgstr "Версия обновления: "
+
+msgid "Version:\t\t%s"
+msgstr "Версия\t%s"
+
+msgid "Version:\t%s"
+msgstr "Версия\t%s"
+
+msgid "Version: "
+msgstr "Версия "
+
+msgid "Version: %s"
+msgstr "Версия %s"
+
+msgid "Volume Table Record: %s"
+msgstr "Запись таблицы емкости: %s"
+
+msgid "Volume output directory is not empty. %s"
+msgstr "Выходной каталог тома не пуст. %s"
+
+msgid "Volume: %s"
+msgstr "Объем: %s"
+
+msgid "WARNING !!! First, mount the device."
+msgstr "ВНИМАНИЕ !!! Сначала смонтируйте устройство."
+
+msgid "WARNING !: The update brings with it the risk of errors.\n"
+msgstr "ВНИМАНИЕ: Обновление несет в себе риск ошибок.\n"
+
+msgid ""
+"Wait almost over ...\n"
+"Loading the image to: %s"
+msgstr ""
+"Подождите почти готово ... \n"
+"Загрузка имиджа в :%s"
+
+msgid "Wait please while scanning for devices..."
+msgstr "Пожалуйста, подождите пока сканируете устройства ..."
+
+msgid "Wait please, NeoBoot is working: ....Restore in progress...."
+msgstr ""
+"Пожалуйста, подождите, NeoBoot работает: ....Восстановление в процессе...."
+
+msgid "Wait, deleting ....."
+msgstr "Ждите, удаление...."
+
+msgid "Waiting"
+msgstr "Подождите"
+
+msgid "Waiting for mount"
+msgstr "В ожидании монтирования"
+
+msgid "Waiting for partition"
+msgstr "В ожидании разделов"
+
+msgid "Welcome to NeoBoot %s Plugin installation."
+msgstr "Добро пожаловать к установке плагина NeoBoot %s."
+
+msgid "Welcome to the world of Python"
+msgstr "Добро пожаловать в Python"
+
+msgid "Would you like to download the image from the network now ?"
+msgstr "Вы хотите скачать имидж с Интернета сейчас?"
+
+msgid "Writing inode tables:"
+msgstr "Сохранение таблиц узлов:"
+
+msgid "Writing to: %s"
+msgstr "Сохранение в: %s"
+
+msgid "Wspierane tunery sat"
+msgstr "Поддерживаемые спутниковые ресиверы"
+
+msgid "Wtyczka zostala pomyslnie zainstalowana."
+msgstr "Плагин был успешно установлен!"
+
+msgid "Wykonac kompletna kopie NeoBoota ?"
+msgstr "Создать полную копию NeoBoot ?"
+
+msgid "Wykonaj kopie zapasowa obrazu z NeoBoota"
+msgstr "Резервное копирование имиджа с NeoBoot"
+
+msgid "You are not running OpenSPA Image. You must mount devices Your self."
+msgstr ""
+"Вы не используете имидж OpenPLi. Устройство должно быть установлено вручную."
+
+msgid "You have the following images installed"
+msgstr "У вас установлены следующие имиджи"
+
+msgid "You have to provide a name for the new Image."
+msgstr ""
+"Каталог /media/ neoboot/ImagesUpload пустой!\\n\n"
+"Установите файл имиджа в формате .ZIP или .NFI, также измените имя ."
+
+msgid ""
+"You have to select one Image to install.\n"
+"Please, upload your zip file in the folder: /media/neoboot/ImagesUpload and "
+"select the image to install."
+msgstr ""
+"Вы должны выбрать один имидж для установки.\n"
+"Пожалуйста, отправьте ZIP-файл в папку: /media/neoboot/ImagesUpload и "
+"выберите имидж для его установки."
+
+msgid "You really want to install NeoBoot in:"
+msgstr "Вы действительно хотите установить NeoBoot до:"
+
+msgid "You still have free: "
+msgstr "Доступно памяти: "
+
+msgid "You system does not support ext4"
+msgstr "Ваша система не поддерживает ext4"
+
+msgid "Your image flash is mounted in the media location"
+msgstr "Ваш флеш-имидж монтируется в месте размещения носителя"
+
+msgid "Zainstalowac ponownie neoboota ?"
+msgstr "Переустановить NEOBOOT ?"
+
+msgid "Zainstaluj"
+msgstr "Обновить"
+
+msgid "Zaktualizuj NeoBoota na wszystkich obrazach."
+msgstr "Обновить NeoBoot на всех имиджах."
+
+msgid ""
+"Zaleca sie instalacje nowego oprogramowania tylko z poziomu systemu flash.\n"
+"---NEOBOOT EXIT---"
+msgstr ""
+"Рекомендуется устанавливать новый имидж только с флеш-памяти.\n"
+"---NEOBOOT EXIT---"
+
+msgid "Zatrzymac procesy E2 na czas instalacji ?"
+msgstr "Остановить процессы E2 на время установки ?"
+
+msgid "Zmiana Hasla"
+msgstr "Удалить пароль"
+
+msgid "[Harddisk]"
+msgstr "[Жесткий диск]"
+
+msgid ""
+"[NeoBoot]\n"
+"We detected that you want to install more than 14 images, be sure to use "
+"options without the boot manager.\n"
+"\n"
+msgstr ""
+"[NeoBoot]\n"
+"Если вы хотите установить более 14 имиджей, не забудьте использовать опцию "
+"без менеджера загрузки при запуске имиджа в NeoBoot.\n"
+"\n"
+
+msgid ""
+"[NeoBoot] \n"
+"Please upload the image files in .ZIP or .NFI formats to install. "
+msgstr ""
+"[NeoBoot] \n"
+"Пожалуйста, загрузите файлы имиджа в формате .ZIP или .NFI для установки. "
+
+msgid ""
+"[NeoBoot] For proper operation of the image blackhole in neobot, you need to "
+"install additional packages. \n"
+"\n"
+" Install now ?"
+msgstr ""
+"Для обеспечения правильной работы BlackHole в Neoboot необходимо установить "
+"дополнительные пакеты..\n"
+"\n"
+"Установить сейчас ?"
+
+msgid ""
+"[NeoBoot] Image Downloader - download plugin not installed!\n"
+"Zainstalowac wtyczke do pobierania nowych image ? \n"
+"---Continue ?--- "
+msgstr ""
+"[NeoBoot] Image Downloader - плагин загрузки не установлен!\n"
+"Установить плагин для загрузки имиджей ? \n"
+"---Продолжить ?--- "
+
+msgid ""
+"[NeoBoot] The %sImagesUpload directory is EMPTY !!!\n"
+"Please upload the image files in .ZIP or .NFI formats to install.\n"
+msgstr ""
+"Папка %sImagesUpload ПУСТАЯ: !!! \n"
+"Пожалуйста, загрузите файл имиджа в формате .ZIP или .NFI для установки.\n"
+
+msgid ""
+"[NeoBoot] The %sImagesUpload directory is EMPTY !!!\n"
+"Please upload the image files in .ZIP or .NFI formats to install. "
+msgstr ""
+"Каталог по пути %sImagesUpload ПУСТ!!!\n"
+"Пожалуйста, загрузите файлы имиджа в формате .ZIP или .NFI для установки. "
+
+msgid ""
+"[NeoBoot] The %sImagesUpload directory is EMPTY !!!\n"
+"Zainstalowac wtyczke do pobierania nowych image ? \n"
+"---Continue ?--- "
+msgstr ""
+"Каталог по пути %sImagesUpload ПУСТ!!!\n"
+"Установить плагин для загрузки имиджей ? \n"
+"---Продолжить ?--- "
+
+msgid ""
+"[NeoBoot] The /media/neoboot/ImagesUpload directory is EMPTY !!!\n"
+"Please upload the image files in .ZIP or .NFI formats to install."
+msgstr ""
+"[NeoBoot] Каталог /media/neoboot/ImagesUpload ПУСТ !!! \n"
+"Пожалуйста, загрузите файлы имиджа в формате .ZIP или .NFI для установки."
+
+msgid ""
+"[NeoBoot] The /media/neoboot/ImagesUpload directory is EMPTY !!!\n"
+"Please upload the image files in .ZIP or .NFI formats to install.\n"
+msgstr ""
+"[NeoBoot] Каталог /media/neoboot/ImagesUpload ПУСТ !!!\n"
+"Пожалуйста, загрузите файлы имиджа в формате .ZIP или .NFI для установки.\n"
+
+msgid ""
+"[NeoBoot] Uwaga!!! po poprawnym starcie wybranego oprogramowania w neoboot,\n"
+"nalezy uruchomic NEOBOOTA by potwierdzic prawidlowy start image.\n"
+"\n"
+"Nacisnij OK lub exit na pilocie by kontynuowac...\n"
+"\n"
+"\n"
+msgstr ""
+"[NeoBoot] Внимание!!! после успешного запуска выбранного программного "
+"обеспечения в neoboot,\n"
+"Вы должны запустить NEOBOOT, чтобы подтвердить правильный стартовый имидж.\n"
+"\n"
+"Нажмите OK или EXIT на пульте Д/У, чтобы продолжить...\n"
+"\n"
+"\n"
+
+msgid "[NeoBoot]From the installation, you can not run an image BlackHole."
+msgstr "С имиджа BlackHole не может быть запущен."
+
+msgid "[NeoBoot]Please wait, update in progress..."
+msgstr "Подождите, обновление в процессе..."
+
+msgid "[NeoBoot]Please wait, updating in progress ..."
+msgstr "[NeoBoot]Подождите пожалуйста, действие в процессе ..."
+
+msgid "autoresize"
+msgstr "ауторегуляция"
+
+msgid "couldn't determine blockdev physdev for device"
+msgstr "не смог определить блокдев физдев для устройства"
+
+msgid "couldn't read model: "
+msgstr "модель неизвестна: "
+
+msgid "device"
+msgstr "устройство"
+
+msgid "disc"
+msgstr "диск"
+
+msgid "errors"
+msgstr "ошибка"
+
+msgid "filepath"
+msgstr "путь к файлу"
+
+msgid "inode"
+msgstr "узел"
+
+msgid "journal"
+msgstr "журнал"
+
+msgid "largefile"
+msgstr "большой файл"
+
+msgid "list"
+msgstr "список"
+
+msgid "name"
+msgstr "имя"
+
+msgid "Upload image files in zip formats to the ImagesUpload location."
+msgstr "Загрузите файлы имиджей в формате .zip в папку ImagesUpload."
+
+msgid ""
+"Plugin ImageDownloader not installed!\n"
+"Install plugin to download new image? \and---Continue ?---"
+msgstr ""
+"Плагин ImageDownloader не установлен!\n"
+"Установить плагин для загрузки имиджей? \n"
+"и --- Продолжить ?---"
+
+msgid "new Harddisk"
+msgstr "новый Жесткий диск"
+
+msgid "new Network Mount"
+msgstr "монтаж новой сети"
+
+msgid "new Network Mount being used as HDD replacement -> /media/hdd/"
+msgstr "новое сетевое подключение используется как жесткий диск -> /media/hdd/"
+
+msgid "nfidump by gutemine - Thanks\n"
+msgstr "nfidump от gutemine - Спасибо\n"
+
+msgid ""
+"nfidump by gutemine - Thanks/Thanks\n"
+"\n"
+msgstr ""
+"nfidump от gutemine - Спасибо\n"
+"\n"
+
+msgid "no image to remove"
+msgstr "нет имиджа для удаления"
+
+msgid "offset"
+msgstr "сдвиг"
+
+msgid "part"
+msgstr "часть"
+
+msgid "processor"
+msgstr "процесор"
+
+msgid "remove"
+msgstr "удалить"
+
+msgid "size"
+msgstr "размер"
+
+msgid "system type"
+msgstr "система"
+
+msgid ""
+"ubi_reader by Jason Pruitt  - Thanks/Thanks\n"
+"\n"
+msgstr ""
+"ubi_reader от Jason Pruitt  - Спасибо\n"
+"\n"
+
+msgid "umount "
+msgstr "отмонтировать "
+
+msgid "unavailable"
+msgstr "недоступно"
+
+msgid "undefined"
+msgstr "не определено"
+
+msgid "unknown"
+msgstr "неизвестный"
+
+msgid "This option is available only from openpli or derivatives."
+msgstr "Эта опция доступна только из openpli или производных."
+
+msgid "update"
+msgstr "обновление"
+
+msgid "NeoBoot v.%s - Install new image"
+msgstr "NeoBoot в.%s - Установка имиджа"
+
+msgid "update packages"
+msgstr "обновить пакеты"
+
+msgid "Copy picon flash to image install ?"
+msgstr "Скопировать пиконы с флеш (если есть) ?"
+
+msgid ""
+"- cpuy picon from flash to image install in neoboot\n"
+"\n"
+msgstr ""
+"- Скопировать picon с flash в устанавливаемый имидж neoboot\n"
+"\n"
+
+msgid "Update FeedExtra on the installed image."
+msgstr "Обновить FeedExtra Player на всех имиджах."
+
+msgid "Copy the FeedExtra Player plugin from flash to all images"
+msgstr "Установить FeedExtra Player с флеш-памяти на все имиджи ?"
+
+msgid "Add cams to feed for OpenATV "
+msgstr "Установить фид SoftCam для OpenATV "
+
+msgid "Add softcam download from feed."
+msgstr "Добавить SoftCam с фида ?"
+
+msgid "Sorry, is not image Open ATV !!!"
+msgstr "Извините, нет имиджа OpenATV! "
+
+msgid "NeoBoot - ATV add cam feed ..."
+msgstr "NeoBoot - Установка SoftCam с фида OpenATV..."
+
+msgid "Sorry, FeedExtra not found."
+msgstr "Извините, FeedExtra Player не найден."
+
+msgid ""
+"NeoBoot successfully updated FeedExtra.\n"
+"Have fun !!"
+msgstr ""
+"NeoBoot успешно обновил FeedExtra Player.\n"
+"Удачи !!"
+
+msgid "Sorry cannot open neo menu. ERROR-GS"
+msgstr "Извините, не могу открыть neo меню. ОШИБКА-GS"
+
+msgid "Sorry, cannot open neo menu install."
+msgstr "К сожалению, не удается открыть установку neo меню."
+
+msgid ""
+"Sorry, Unable to install, bad satellite receiver or you do not have the full "
+"plug-in version\n"
+" The full version of the NEO VIP plugin is on the forum address:\n"
+"http://all-forum.cba.pl  in the VIP section."
+msgstr ""
+"Извините, невозможно установить, не тот ресивер или у вас нет полной версии "
+"плагина\n"
+" Полная версия плагина NEO VIP находится по адресу форума:\n"
+"http://all-forum.cba.pl в VIP-разделе."
+
+msgid "Sorry cannot open neo menu."
+msgstr "Извините, не могу открыть neo меню."
+
+msgid ""
+"New version update neoboot is available!\n"
+"Please upgrade your flash plugin."
+msgstr ""
+"Доступно обновление новой версии neoboot!\n"
+"Пожалуйста, обновите плагин на flash."
+
+msgid "Restore neoboot backup"
+msgstr "Применить копию плагина neoboot"
+
+msgid "Instal neoobot from github"
+msgstr "Установить neoobot с github"
+
+msgid ""
+"Bravo! Neoboot vip full version activated OK!\n"
+"Please restart your system E2."
+msgstr ""
+"ОК! Полная версия Neoboot vip активирована.\n"
+"Перезагрузите Enigma2."
+
+msgid "VIP Access Activation Fails with Error code 0x10."
+msgstr "Сбой активации VIP-доступа с кодом ошибки 0x10."
+
+msgid "VIP Access Activation Fails with Error code 0x20."
+msgstr "Сбой активации VIP-доступа с кодом ошибки 0x20."
+
+msgid ""
+"Bravo - pin code removed!\n"
+"Please re-enter your pin code."
+msgstr ""
+"ОК - пин-код удален!\n"
+"Пожалуйста, введите пин-код еще раз."
+
+msgid "Geen internet"
+msgstr "Нет интернета"
+
+msgid "Updates feed cam OpenATV softcam"
+msgstr "Установить feeds softcam OpenATV"
+
+msgid "Create swap-file."
+msgstr "Создать файл подкачки."
+
+msgid "Create swap- file."
+msgstr "Создать файл подкачки."
+
+msgid "Create swap-file"
+msgstr "Создать файл подкачки"
+
+msgid "Start create file swap."
+msgstr "Начать"
+
+msgid "Creation swap 512MB, please wait..."
+msgstr "Создание файла 512 Мб, подождите ..."
+
+msgid "Creation complete swap 512MB"
+msgstr "Создание файла 512Mб"
+
+msgid "The file swapfile already exists."
+msgstr "Файл swap уже существует!"
+
+msgid "The folder hdd or usb not  exists!"
+msgstr "Папки hdd или usb не существует!"
+
+msgid "It is recommended to give a label to the disk."
+msgstr "Рекомендуется дать имя тома!!!"
+
+msgid "SetDiskLabel"
+msgstr "Метка тома"
+
+msgid "Current partition label:"
+msgstr "Текущее имя тома:"
+
+msgid "Choice label to set:"
+msgstr "Выбор имя тома для установки:"
+
+msgid "Select partition to set label:"
+msgstr "Выберите раздел для имени тома:"
+
+msgid "Set label"
+msgstr "Дать имя"
+
+msgid "Add label"
+msgstr "Добавить имя"
+
+msgid "Delete label"
+msgstr "Удалить имя"
+
+msgid "Set label on %s?"
+msgstr "Установить имя на %s?"
+
+msgid "Selected label is set"
+msgstr "Выбранное имя присвоено"
+
+msgid "Add new partition label:"
+msgstr "Добавить новое имя тома:"
+
+msgid "Delete label from %s?"
+msgstr "Удалить имя тома с %s?"
+
+msgid "Label is delete"
+msgstr "Имя тома удалено"
+
+msgid "No label"
+msgstr "Без имени тома"
+
+msgid "!!!Do not set the label for /dev/mmcblk0p !!!"
+msgstr "!!! Не устанавливайте имя для /dev/mmcblk0p !!!"
+
+msgid ""
+"Installed succesfully NEOBOOT!\n"
+"NeoBoot has detected that the disks have been marked.\n"
+"Recommended total restart of the tuner\n"
+msgstr ""
+"NEOBOOT установлен успешно!\n"
+"NeoBoot обнаружил, что у носителя есть имя тома.\n"
+"Рекомендуется полный перезапуск ресивера!\n"
+
+msgid "Reboot stb now  ?"
+msgstr "Перезагрузить ресивер сейчас ?"
+
+msgid "Reboot"
+msgstr "ПЕРЕЗАГРУЗКА"
+
+msgid "Please wait, NeoBoot is working..."
+msgstr "Пожалуйста, подождите, NeoBoot работает..."
+
+msgid "NeoBoot: Backu to flash!"
+msgstr "NeoBoot: Назад к flash!"
+
+msgid "To reboot press red!"
+msgstr "Подтвердить!?"
+
+msgid "Force reboot to flash ?"
+msgstr "Принудительно вернуться к flash ?"
+
+msgid "NeoBoot: Force reboot to flash image now..."
+msgstr "NeoBoot: Принудительная перезагрузка на flash-имидж..."
+
+msgid "Force reboot to flash."
+msgstr "Принудительная перезагрузка на flash."
+
+msgid ""
+"Sorry, this is not neoboot vip version.\n"
+"Get NEO-VIP version, more info press blue button."
+msgstr ""
+"Извините, это не neoboot vip версия.\n"
+"Получить NEO-VIP, Подробнее - нажмите синюю кнопку."
+
+msgid ""
+"Sorry, this is not neoboot vip version.\n"
+"Get NEO-VIP version, more info press blue button or try to update."
+msgstr ""
+"Извините, это не neoboot vip версия.\n"
+"Получить NEO-VIP, Подробнее - нажмите синюю кнопку или обновите плагин."
+
+msgid "Are you sure you want to reinstall neoboot from github."
+msgstr "Вы уверены, что хотите переустановить neoboot с github."
+
+msgid "Are you sure you want to reinstall neoboot from github ?"
+msgstr "Вы уверены, что хотите переустановить neoboot с github ?"
+
+msgid "Install."
+msgstr "Установка..."
+
+msgid "Get a free test to the full vip version."
+msgstr "Получите доступный тест на полную vip-версию."
+
+msgid ""
+"Neoboot plugin installed with ERRORS! Not work properly! The error number is "
+"1"
+msgstr ""
+"Плагин Neoboot установлен с ОШИБКАМИ! Не работает должным образом! Номер "
+"ошибки 1"
+
+msgid ""
+"Neoboot plugin installed with ERRORS! Not work properly! The error number is "
+"2"
+msgstr ""
+"Плагин Neoboot установлен с ОШИБКАМИ! Не работает должным образом! Номер "
+"ошибки 2"
+
+msgid ""
+"Neoboot plugin installed with ERRORS! Not work properly! The error number is "
+"3"
+msgstr ""
+"Плагин Neoboot установлен с ОШИБКАМИ! Не работает должным образом! Номер "
+"ошибки 3"
+
+msgid "VIP access error. Reinstall the plugin."
+msgstr "Ошибка VIP доступа. Переустановите плагин."
+
+msgid "Neoboot vip version has expired, please re-access."
+msgstr "Срок действия vip-версии Neoboot истек, нужна активация."
+
+msgid ""
+"Sorry cannot open neo menu My Upgrade.\n"
+"Access Fails with Error code 0x06."
+msgstr ""
+"Извините, не могу открыть меню neo My Upgrade.\n"
+"Сбой доступа с кодом ошибки 0x06."
+
+msgid ""
+"Sorry cannot open neo menu Neo Boot Image Choose.\n"
+"Access Fails with Error code 0x07."
+msgstr ""
+"К сожалению, не может открыть меню NeoBoot Image Choose.\n"
+"Сбой доступа с кодом ошибки 0x07."
+
+msgid ""
+"Sorry cannot open neo menu NeoBoot Installation.\n"
+"Access Fails with Error code 0x08."
+msgstr ""
+"Извините, не могу открыть меню Neo УСТАНОВКА.\n"
+"Сбой доступа с кодом ошибки 0x08."
+
+msgid "Sorry cannot open neo menu. Not supported tuners. "
+msgstr ""
+"Извините, не могу открыть меню Neo. Не поддерживаемая модель ресивера. "
+
+msgid ""
+"Sorry, Unable to install, bad satellite receiver or you do not have the full "
+"plug-in version\n"
+"\n"
+"The full version of the NEO VIP plugin is on address:\n"
+"krzysztofgutosie@.gmail.com"
+msgstr ""
+"Извините, не удалось установить, не тот спутниковый ресивер или у вас нет "
+"полной версии плагина\n"
+"\n"
+"Вопросы по плагину NEO VIP пишите по адресу:\n"
+"krzysztofgutosie@.gmail.com"
+
+msgid "It looks like it that multiboot does not support this STB."
+msgstr "Похоже, что NeoBoot не поддерживает этот Ресивер."
+
+msgid ""
+" - cpuy picon from flash to image install in neoboot\n"
+"\n"
+msgstr ""
+" - Скопировать picon с flash до устанавливаемого имиджа в neoboot\n"
+"\n"
+
+msgid ""
+"Re-installing the kernel. \n"
+"\n"
+"Install?"
+msgstr ""
+"Переустановка ядра. \n"
+"\n"
+"Установить?"
+
+msgid "Force reboot"
+msgstr "Принудительно"
+
+msgid "Current Running Image: "
+msgstr "Текущий имидж: "
+
+msgid "NeoBoot Installed on: "
+msgstr "NeoBoot Установлен на: "
+
+msgid "Reboot Confirmation"
+msgstr "Подтверждение Перезагрузки"
+
+msgid ""
+"Are you sure you want to Boot Image:\n"
+" "
+msgstr ""
+"Вы уверены, что хотите загрузить имидж:\n"
+" "
+
+msgid ""
+"Sorry cannot open neo menu. Hymmm...\n"
+"Access Fails with Error code 0x73."
+msgstr ""
+"Извините, невозможно открыть меню Нео. localtime...\n"
+"Сбой доступа, код ошибки 0x73."
+
+msgid "Sorry cannot open run file - Access Fails with Error code 0x40."
+msgstr "Извините, невозможно открыть run файл - Сбой доступа, код ошибки 0x40."
+
+msgid "Sorry cannot open run.py file - Access Fails with Error code 0x30."
+msgstr "Извините, невозможно открыть run файл - Сбой доступа, код ошибки 0x30."
+
+msgid "The plug-in has been successfully installed."
+msgstr "Плагин был успешно установлен."
+
+msgid "Install Multi Stalker"
+msgstr "Установить Multi Stalker"
+
+msgid "Install Panel Extra Feed"
+msgstr "Установить Panel Extra Feed"
+
+msgid "Install Multiboot Flash Online"
+msgstr "Установить Multiboot Flash Online"
+
+msgid "Install Dream Sat Panel"
+msgstr "Установить Dream Sat Panel"
+
+msgid "Initialization - formatting disk for neoboot."
+msgstr "Инициализация - форматирование usb/hdd для neoboot"
+
+msgid "NeoBoot donate"
+msgstr "Donate, Помощь проекту"
+
+msgid "Creation complete swap ' + swapsize + '"
+msgstr "Создание swap ' + swapsize + ' завершено"
+
+msgid "Creation swap ' + myfile + ', please wait..."
+msgstr "Создание swap ' + myfile + ', пожалуйста, подождите..."
+
+msgid "Please select device to use as swapfile location"
+msgstr "Пожалуйста, выберите носитель для расположения файла swap"
+
+msgid ""
+"Sorry, no physical devices that supports SWAP attached. Can't create "
+"Swapfile on network or fat32 filesystems"
+msgstr ""
+"К сожалению, нет физических устройств, поддерживающих SWAP. Невозможно "
+"создать файл подкачки по сети или fat32 файловой системе"
+
+msgid "Select the Swap File Size:"
+msgstr "Выберите Размер SWAP:"
+
+msgid "Remove swap, please wait..."
+msgstr "Удаление swap, пожалуйста, подождите..."
+
+msgid "Swap file has been deleted."
+msgstr "Файл swap был удален"
+
+msgid "The swap not exists."
+msgstr "Swap не существует"
+
+msgid ""
+"Re-installing Panel_Extra_Feed. \n"
+"\n"
+"Install?"
+msgstr ""
+"Переустановить Panel_Extra_Feed. \n"
+"\n"
+"Установить?"
+
+msgid "Enigma2 restarting.."
+msgstr "Enigma2 перезапускается..."
+
+msgid ""
+"The plugin not installed.\n"
+"Access Fails with Error code error-panel_install"
+msgstr ""
+"Плагин не был установлен.\n"
+"Сбой доступа с кодом ошибки error-panel_install"
+
+msgid ""
+"Re-installing Multi-Stalker. \n"
+"\n"
+"Install?"
+msgstr ""
+"Переустановить Multi-Stalker. \n"
+"\n"
+"Установить?"
+
+msgid ""
+"Re-installing MultibootFlashonline. \n"
+"\n"
+"Install?"
+msgstr ""
+"Переустановить MultibootFlashonline. \n"
+"\n"
+"Установить?"
+
+msgid ""
+"Re-installing DreamSatPanel \n"
+"\n"
+"Install?"
+msgstr ""
+"Переустановить DreamSatPanel \n"
+"\n"
+"Установить?"
+
+msgid "Select disk."
+msgstr "Выбрать носитель"
+
+msgid "Formatting"
+msgstr "Форматировать"
+
+msgid "Hard disk:  %s  Formatting ? Attention! All data will be lost !!!"
+msgstr "Носитель: %s Форматировать? ВНИМАНИЕ!!! Все данные будут потеряны!"
+
+msgid "NeoBoot - Formatting disk ....."
+msgstr "NeoBoot - Форматирование устройств....."
+
+msgid "Please wait and dont disconnect the power !!! ...."
+msgstr "Пожалуйста, подождите и не отключайте питание!!!...."
+
+msgid "Disk Formatting...!"
+msgstr "Форматирование...!"
+
+msgid "Press MENU - Backup"
+msgstr "<MENU> Backup"
+
+msgid "Press 1 - Mounting"
+msgstr "<1> Монтировать"
+
+msgid "Press 2 - Delete NeoBoot"
+msgstr "<2> Удалить NeoBoot"
+
+msgid ""
+"Catalog %sImagesUpload directory is empty\n"
+"Please upload the image files in zip or nfi formats to install"
+msgstr ""
+"Каталог %sImagesUpload пуст\n"
+"Пожалуйста, загрузите файлы имиджей в формате .zip или .nfi для установки"
+
+msgid "Remove file swap."
+msgstr "Удалить swap файл"
+
+msgid "Start the set disk label"
+msgstr "Установите имя тома для носителя"
+
+msgid "Formatting Disk"
+msgstr "Форматировать"
+
+msgid ""
+"\n"
+"VIP - Try entering the pin code again."
+msgstr ""
+"\n"
+"VIP — попробуйте сбросить/ввести пин-код еще раз!"
+
+msgid "Sorry cannot open neo menu. Access Fails with Error code 0x50."
+msgstr ""
+"Извините, не могу открыть neo_MENU. Ошибка доступа с кодом ошибки 0x50."
+
+msgid ""
+"Thank you to everyone not here for helping to improve NeoBoot \n"
+"\n"
+msgstr ""
+"Спасибо всем, кто не упомянут здесь, за помощь в улучшении NeoBoot \n"
+"\n"
+
+msgid ""
+"Successful fun :)\n"
+"\n"
+msgstr ""
+"Веселитесь на здоровье (^_^) \n"
+"\n"
+
+msgid ""
+"Sorry, you can install up to 2 images, this is not neoboot vip version.\n"
+"Get unlimited image installations in VIP version"
+msgstr ""
+"Извините, вы можете установить не более 2 имиджа, это не neoboot vip "
+"версия.\n"
+"Получите неограниченную установку имиджей в VIP версии"
+
+msgid ""
+"Not enough free space on /media/ !!\n"
+"You need at least 500Mb free space.\n"
+"\n"
+"Exit plugin."
+msgstr ""
+"Нет свободного места на /media/* !!\n"
+"Вам нужно как минимум 500 Мб свободного места.\n"
+"\n"
+"Выйдите из плагина."
+
+msgid ""
+"Sorry, cannot open neo menu image install. Access Fails with Error code 0x70."
+msgstr ""
+"Извините, не удается открыть neo-меню установки имиджей. Доступ не удался, "
+"код ошибки 0x70."
+
+msgid ""
+"Your receiver is not on the list of supported tuners.\n"
+"Access error with error code 0x71."
+msgstr ""
+"Вашего ресивера нет в списке поддерживаемых.\n"
+"Ошибка доступа, код ошибки 0x71."
+
+msgid ""
+"Sorry, cannot open instalation menu.\n"
+"Access error with error code 0x72."
+msgstr ""
+"Извините, не удалось открыть меню установки.\n"
+"Ошибка доступа, код ошибки 0x72."
+
+msgid ""
+"\\  NeoBoot Ver. ' + PLUGINVERSION + ' - NeoBoot Ver. updates ' + "
+"UPDATEVERSION + '//\n"
+"\n"
+msgstr ""
+"\\  NeoBoot Вер. ' + PLUGINVERSION + ' - NeoBoot Вер. обновления ' + "
+"UPDATEVERSION + '//\n"
+"\n"
+
+msgid "Get the full version of the multiboot plugin.\n"
+msgstr "Получите полную версию плагина neoboot.\n"
+
+msgid "Send an e-mail request for the neoboot vip version.\n"
+msgstr ""
+"Отправьте запрос по электронной почте для получения neoboot vip версии.\n"
+
+msgid "Donate to the project\n"
+msgstr "Пожертвовать на проект\n"
+
+msgid "- Access to the latest version\n"
+msgstr "- Доступ к последней версии\n"
+
+msgid "- Online support\n"
+msgstr "- Online поддержка\n"
+
+msgid "- Full version\n"
+msgstr "- Полная версия\n"
+
+msgid "- More information email\n"
+msgstr "- Подробнее, пишите на email\n"
+
+msgid "We thank you for any help\n"
+msgstr "Мы благодарим Вас за любую помощь\n"
+
+msgid ""
+"If you want to support the neoboot project, you can do so by contacting us "
+"by e-mail:\n"
+msgstr ""
+"Если вы хотите поддержать проект neoboot, вы можете сделать это, связавшись "
+"с нами по электронной почте:\n"
+
+msgid "Transfer kodi settings ?"
+msgstr "Перенести настройки kodi ?"
+
+msgid "Use Nandsim to install image ?"
+msgstr "Использовать Nandsim для установки имиджа ?"
